@@ -13,6 +13,7 @@
 - [问题档案](question-dossier.md)：每个四周模块的主文件；
 - [阅读卡](reading-card.md)：每部原典或论文一张；
 - [论证图](argument-map.md)：重构并检验一个核心论证；
+- [思想实验与反思平衡记录表](thought-experiment.md)：控制变量、审查框架并记录多轮修订；
 - [短论文工作稿](paper-workshop.md)：保留初稿、批评和重写依据；
 - [对话记录](dialogue-record.md)：记录真正分歧与改变条件；
 - [周复盘](weekly-review.md)：维持节奏并发现理解缺口；
