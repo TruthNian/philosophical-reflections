@@ -33,11 +33,11 @@
 | 一神教论辩网络 | [阿维森纳《治疗论·形而上学》选段](medieval-abrahamic/avicenna-metaphysics-selection.md) | 已完成 |
 | 欧洲近代 | [笛卡尔《第一哲学沉思集》](early-modern/descartes-meditations.md) | 已完成 |
 | 欧洲近代 | [休谟《人类理解研究》](early-modern/hume-enquiry.md) | 已完成 |
-| 十九至二十世纪 | 马克思作品锚点组 | 待发布 |
-| 十九至二十世纪 | 维特根斯坦《哲学研究》 | 待发布 |
-| 十九至二十世纪 | 波伏瓦《模糊性的伦理学》 | 待发布 |
-| 当代与全球 | 罗尔斯《正义论》选段 | 待发布 |
-| 当代与全球 | 法农《黑皮肤，白面具》选段 | 待发布 |
+| 十九至二十世纪 | [马克思作品锚点组](nineteenth-twentieth/marx-selected-works.md) | 已完成 |
+| 十九至二十世纪 | [维特根斯坦《哲学研究》](nineteenth-twentieth/wittgenstein-philosophical-investigations.md) | 已完成 |
+| 十九至二十世纪 | [波伏瓦《模糊性的伦理学》](nineteenth-twentieth/beauvoir-ethics-of-ambiguity.md) | 已完成 |
+| 当代与全球 | [罗尔斯《正义论》选段](contemporary-global/rawls-theory-of-justice.md) | 已完成 |
+| 当代与全球 | [法农《黑皮肤，白面具》选段](contemporary-global/fanon-black-skin-white-masks.md) | 已完成 |
 
 ## 已发布导读
 
@@ -68,4 +68,15 @@
 - [《忏悔录》选卷：恶、意志与时间中的自我](medieval-abrahamic/augustine-confessions-selection.md)
 - [《治疗论·形而上学》选段：可能者为何需要存在根据](medieval-abrahamic/avicenna-metaphysics-selection.md)
 
-其余锚点只有在十一项结构和证据要求全部满足后才进入本索引。
+### 十九至二十世纪分岔
+
+- [马克思作品锚点组：社会关系为何表现为物的属性](nineteenth-twentieth/marx-selected-works.md)
+- [《哲学研究》：语言怎样使问题成立，也使问题消散](nineteenth-twentieth/wittgenstein-philosophical-investigations.md)
+- [《模糊性的伦理学》：自由为何只能在他人的自由中实现](nineteenth-twentieth/beauvoir-ethics-of-ambiguity.md)
+
+### 当代与全球哲学
+
+- [《正义论》选段：怎样为社会基本结构选择公平原则](contemporary-global/rawls-theory-of-justice.md)
+- [《黑皮肤，白面具》选段：殖民秩序怎样进入语言、身体与欲望](contemporary-global/fanon-black-skin-white-masks.md)
+
+第一轮十七个锚点均已通过十一项结构与证据要求。后续扩展不以凑齐“文明代表”为目标，而依据课程问题、解释争议和学习者的实际阅读记录逐部增加。
