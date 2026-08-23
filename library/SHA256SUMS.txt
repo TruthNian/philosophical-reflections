@@ -1,0 +1,75 @@
+2a8fea85b358fb45ba7835dee5166b5990b7a7c11ad4dc6c41ebdd9a265c1888  00-Method/forall x Calgary - Introduction to Formal Logic (English, CC BY 4.0).pdf
+599789e6ee10bf4f937b17649ccd834917169629a7b80bbbd5004f39d0fa1a5e  00-Method/Russell - Problems of Philosophy (English, PG5827).epub
+35f509905b809b7671f6704706188252a509b3b93928a695aab18e287cf78f22  01-Ancient-Greek/Aristotle - Metaphysics (Ross, English, MIT Classics).txt
+b5245c2b04935132d3709f2175b2a73784e199759e14b590ac9380bdb68ccca1  01-Ancient-Greek/Aristotle - Nicomachean Ethics (English, PG8438).epub
+77350984c82f56a7dfe0b872b99208b9817e9cc4ca13510b81fc1b882d8862df  01-Ancient-Greek/Aristotle - On the Soul (Smith, English, MIT Classics).txt
+db73a95cc0055e4eaeacd0179331f01e066e34ba7ebfd05d4e30872f4588ff8a  01-Ancient-Greek/Aristotle - Politics (Ellis, English, PG6762).epub
+e9911818d894dc066ac496453315b99c6bebe02aa69610dc752db3f2492e2a49  01-Ancient-Greek/Aristotle - Posterior Analytics (Mure, English, MIT Classics).txt
+185851ad17ec34649cd94bc65bb2ed93026680289a484dab0e28ea38b061516e  01-Ancient-Greek/Epictetus - Enchiridion (Carter, English, PG45109).epub
+11d363927aad38e07fe99f5e817aac35c24e487780e773d04092a4fdd682141d  01-Ancient-Greek/Epicurus - Letter to Menoeceus (Hicks, English, MIT Classics).txt
+783fcbedde1960deb21105d6b40dba220c0ba9434c82ab02d2792cb59a4696ad  01-Ancient-Greek/Marcus Aurelius - Meditations (English, PG2680).epub
+7e04c0d2e6385f9a766a2bde1556ad8adcc38e152b3725a86d358069ab98cf75  01-Ancient-Greek/Plato - Apology (Jowett, English, PG1656).epub
+b32d497d3536d294f6977f34e53dc154e052ac4f61c50aa7cb6ab6f252677c5d  01-Ancient-Greek/Plato - Crito (Jowett, English, PG1657).epub
+9ccdf5627da362e031867c024e000eb737d53ffd233af0c826986cebfe9881e8  01-Ancient-Greek/Plato - Euthyphro (Jowett, English, PG1642).epub
+7d8eb26cb575b0448a3b13feb7a0d467f1196938657a48c67c1d302d9a334ed7  01-Ancient-Greek/Plato - Meno (Jowett, English, PG1643).epub
+b0fa9dead68538d9308a0bd58170d2b71d60c641d824edcbc0730efa18285d1f  01-Ancient-Greek/Plato - Republic (Jowett, English, PG1497).epub
+7f37ba5b59ac3fc6018b9620a36bae375d0132208bd7d82148f5c955bade465a  01-Ancient-Greek/Plotinus - Complete Works Vol 1 (Guthrie, English, PG42930).epub
+ace5bb974f3e3c13399dbba06e411843de0c192430d7a99b3ddd43085f0990af  01-Ancient-Greek/Plotinus - Complete Works Vol 2 (Guthrie, English, PG42931).epub
+72aa8c11071c56d15020b9f9ffee5a9a08a444953e5f66ad30ef3d2fce0a9c74  01-Ancient-Greek/Plotinus - Complete Works Vol 3 (Guthrie, English, PG42932).epub
+09c20d162ef78177364814a0875801c9b357516b3700af281f6e49599acf14f7  01-Ancient-Greek/Plotinus - Complete Works Vol 4 (Guthrie, English, PG42933).epub
+681d3e66bfe2b0afcb0969f4ffacb41a82593370075bbab1bc8371903fd6514e  02-Chinese-East-Asian/孟子（文言原文，中文維基文庫）.epub
+56e34db819222ff265b4d1f234cdd9e38ab51484b6dfd48fe04ae05085f9e03f  02-Chinese-East-Asian/荀子（文言原文，中文維基文庫）.epub
+91d4c6ab59209642cee7b0cdfb602691e321e3826deb4c14c1dbd31270cf7408  02-Chinese-East-Asian/莊子（文言原文，中文維基文庫）.epub
+de0d07aa7347a72f0293fa7c68e6ac52e8a64d12b4326784818f8c6fbf19f997  02-Chinese-East-Asian/論語（文言原文，中文維基文庫）.epub
+62cea823416b44bb8ebb9e508f3baf870273199eff01c5587c75a6dc838c16af  02-Chinese-East-Asian/道德經（文言原文，中文維基文庫）.epub
+4da02c672dda2be10f9c91c7838769a5d63b063b4f3a64b198bb0c84bb53e102  02-Chinese-East-Asian/韓非子（文言原文，中文維基文庫）.epub
+01da1c7076a12c4051499caea94b41f9c25aa7c3f052d791cfb2d7d1e911660a  02-Chinese-East-Asian/墨子（文言原文，中文維基文庫）.epub
+16be767282f693eccc4a5db5962faaa1a96448e20d9707e823d50ebab28888ec  03-Indian-Buddhist/Bhagavad Gita - The Song Celestial (Arnold, English, PG2388).epub
+9feebee3c81e1745513dc11d91c018b83ed07ea48dd2b3bb7305962fd3207c2d  03-Indian-Buddhist/Linked Discourses - Samyutta Nikaya (Sujato, English, SuttaCentral, 2026-08-23).epub
+8905a78b4061554bef569a36f5e1a1602bc447ada5cea58c702a5994c34e43f3  03-Indian-Buddhist/Nagarjuna - Mulamadhyamakakarika (Sanskrit, GRETIL 2020-07-31).html
+a35e37ae402f3bbe9b6d5a2e65924b66ec4049e081b79be9539d49eb4f505f2f  03-Indian-Buddhist/The Upanishads (Paramananda, English, PG3283).epub
+36a67957fe07634606cb2ad423ffb021fd19c3c0f9f795ec34b9f767351d3762  03-Indian-Buddhist/Upanishads Part I - Sacred Books of the East Vol 1 (Muller, English, Wikisource).epub
+d1126a43211618b1c2bde60f9d06a3403a5139d606a059f066e6e400544da541  03-Indian-Buddhist/Upanishads Part II - Sacred Books of the East Vol 15 (Muller, English, 1884 scan).pdf
+b695ede849a58853a4feae5ba0c0e3f7fc59b98a3e4f80031c334e6be2229df2  03-Indian-Buddhist/中論（鳩摩羅什漢譯，中文維基文庫，二十七品全文）.html
+5b163456041253960cabb0c8b188953719df39c467a3cf58fdc24ff61adf6bad  04-Abrahamic-Medieval/Aquinas - Summa Theologica Part I (English Dominican Fathers, PG17611).epub
+18bc13d0fe6495d9155c6087dde27ed56bbbb074db9ca93176875891e9062a01  04-Abrahamic-Medieval/Aquinas - Summa Theologica Part I-II (English Dominican Fathers, PG17897).epub
+d4441386699015b8815e4b81e9531b58e2cb14562b3cea54bc83f97d3852fc7f  04-Abrahamic-Medieval/Aquinas - Summa Theologica Part II-II (English Dominican Fathers, PG18755).epub
+3416fc3b22cdbeb3bf566ce442dfff0bbea613273a20c79c02a1ca1e98477944  04-Abrahamic-Medieval/Aquinas - Summa Theologica Part III (English Dominican Fathers, PG19950).epub
+c35867493ec30e1d233eb85725d508999bdcea88fa54d07e6f87ac089e044ea4  04-Abrahamic-Medieval/Augustine - Confessions (Pusey, English, PG3296).epub
+e0ea26a714cf73c93f3553bc3d937c0a47b2142542523cce5f269abd55acd68f  04-Abrahamic-Medieval/Boethius - Theological Tractates and Consolation (Latin-English, PG13316).epub
+1593211a9cc51b4b324a039ec20f2b663f965a6aefa2fac87d1c118927b5f7b9  04-Abrahamic-Medieval/Maimonides - Guide for the Perplexed (Friedlander 2nd ed, English, PG73584).epub
+003e3142773dcfdae38e7b17266bc0f77aaa2612d1e17ad8696db4f93b34fa0f  05-Early-Modern/Bacon - Novum Organum (Devey, English, PG45988).epub
+0959cb165c4517ce3cfe7b3c07830ae6929a0b9cc9a4fa82becd24ea8aa6f316  05-Early-Modern/Berkeley - Principles of Human Knowledge (English, PG4723).epub
+b6ea8c0d560f9ae9cf36bac14e33d2d2f8eb37e2ff3f7d10a386a7af747e0eef  05-Early-Modern/Descartes - Meditationes de Prima Philosophia (Latin, PG23306).epub
+2213263deae7e60333633f0a3a256b22b1b9e97eb535788bf510f5f4280ec289  05-Early-Modern/Descartes - Six Metaphysical Meditations (Molyneux, English, PG70091).epub
+92affba0999f5506e9cdf51e682a8449a57da891b3f89bf650136a3aa232b81a  05-Early-Modern/Hobbes - Leviathan (English, PG3207).epub
+e427506a45179522dc173b1d446e148e70d2dc25f90513e29f026c3924f19ddb  05-Early-Modern/Hume - Enquiry Concerning Human Understanding (Selby-Bigge, English, PG9662).epub
+9a28cdc4152fda19a5a5edabf8206250744765f2f19cbf248298af303181e590  05-Early-Modern/Kant - Beantwortung der Frage Was ist Aufklaerung (German, PG30821).epub
+5887a2122b44d58cf4603e09b777997f190d2601af935f45f31f3bfecf50992f  05-Early-Modern/Kant - Critique of Judgement (Bernard, English, PG48433).epub
+401021792e9d78768df75d4fd6ff031c4f80f49fc490d58d930217b5a7043a9c  05-Early-Modern/Kant - Critique of Practical Reason (Abbott, English, PG5683).epub
+bc558b769ca0aaa7aee99adcc6a3f945994b6be3e3259e52383253f212eb08c7  05-Early-Modern/Kant - Critique of Pure Reason (Meiklejohn, English, PG4280).epub
+3011a7f1bd51cca1d05d88967b5a9adf95494eef73cd3fcc6b5b5f75b8ae11be  05-Early-Modern/Kant - Groundwork (Abbott, English, PG5682).epub
+f9a67c77a6f0340f2524bad05a1773809d03782f98af7d1a2da0efe4ca0d6fa2  05-Early-Modern/Leibniz - Monadology and Other Philosophical Writings (Latta, English, 1898 scan).pdf
+ed91568637312d87a0c8ff52652d836d4ac9fddf8b3113068fd052bcfcc914de  05-Early-Modern/Locke - Essay Concerning Human Understanding Vol 1 (English, PG10615).epub
+ad8b047113c85cd71b34be29bd0af7be700b1922f7a648ec550c31a580006fe6  05-Early-Modern/Locke - Essay Concerning Human Understanding Vol 2 (English, PG10616).epub
+d0c4b874b292e4bc5e17e2c1ead450accc1a413925538266fb8570187ca4f3c6  05-Early-Modern/Mill - On Liberty (English, PG34901).epub
+ba1d760a669a3084c9d4908e0e9a15454771487ea2bda63d59f2459ee3041588  05-Early-Modern/Mill - Utilitarianism (English, PG11224).epub
+30f9672ccf9d3d0f8d00298117c3f2b6e801f5ed48f6a99cdf9336eb2bb1e434  05-Early-Modern/Rousseau - Social Contract and Discourses (Cole, English, PG46333).epub
+9eafbdb3fb29a29a1b5cafc0564e9a21a01267da066abd9ddc4202a4222fefd0  05-Early-Modern/Spinoza - Ethics (Elwes, English, PG3800).epub
+77a381b34351b173b883355af908795b21eded52799b0443015fc4961f7836bb  05-Early-Modern/Wollstonecraft - Vindication of the Rights of Woman (English, PG3420).epub
+50152907351d47aa93e3dc62046d90307f7e54dde031bd38e5237bde2a1a87d3  06-Nineteenth-Twentieth/Dewey - Democracy and Education (English, PG852).epub
+5abc6ade9ba8744c7600f17622669f9e649ea395743ac6ee12525d98d312e5b5  06-Nineteenth-Twentieth/Du Bois - Souls of Black Folk (English, PG408).epub
+4034b932ae273738e69e9c9e8b3b7fa25d65457427dff228d2a0b068637e3bf7  06-Nineteenth-Twentieth/Hegel - Philosophy of Mind (Wallace, English, PG39064).epub
+82ff4726071495bb93d73c781673dc5ec757e5b427e953daf6037c8d80658aa8  06-Nineteenth-Twentieth/Hegel - The Phenomenology of Mind Vol 1 (Baillie, English, 1910 scan).pdf
+031e7324e4b0a5a4a6e4028de9406d30bec9b2bcc92d192fb07123498e141072  06-Nineteenth-Twentieth/Hegel - The Phenomenology of Mind Vol 2 (Baillie, English, 1910 scan).pdf
+4f2e7fd6082ebcfddbaa25032c30e117251d3ccf285129b6992bc3890cc0b826  06-Nineteenth-Twentieth/Kierkegaard - Selections from the Writings (Hollander, English, PG60333).epub
+279c2d870a1b76c8944748b77052e3e492def7ca17f8aad60385b211b5bdc6d5  06-Nineteenth-Twentieth/Marx - Capital Volume I (English, MIA).pdf
+c15870c4f92f761c5f0486eda9070279a1a4e938a10eb5b89cf91868e1beb075  06-Nineteenth-Twentieth/Marx - Thesen ueber Feuerbach (German, MIA).html
+85c38ecaa5ee75168d0b3b4674d9d9a64bdec1f8b96caa7fb084933ad2eb6fdf  06-Nineteenth-Twentieth/Marx and Engels - Selected Works Vol 1 (English, MIA).pdf
+97ac66e2d092b9b88d6bc7ebc576330ad4b501ea38c80e3b1821f998937feade  06-Nineteenth-Twentieth/Nietzsche - Genealogy of Morals (English, PG52319).epub
+b8725a3e8a74e12c7b786e4310e409eacac9017198bb0aacc06df5584f00587e  06-Nineteenth-Twentieth/Peirce - Chance Love and Logic (English, PG65274).epub
+9c64525b6d845d1630baee147fdd541680046b5431035973d6f9aa778a773edf  06-Nineteenth-Twentieth/Russell - On Denoting (English, 1905, Drew University).html
+babde5e5c6b9e6ea4bdca0b84a24a7ef800f56fcf88528a19c899ae04511584c  06-Nineteenth-Twentieth/William James - Pragmatism (English, PG5116).epub
+48c33086026943b6599900403713f1a57bf9a861278168f0314404c0c152f1a4  06-Nineteenth-Twentieth/Wittgenstein - Philosophische Untersuchungen (German, LWP).epub
+7d4985ba0c87de7723fa40f7c35a11528b8525148a2f95cae62308bd47756704  06-Nineteenth-Twentieth/Wittgenstein - Philosophische Untersuchungen (German, LWP).pdf
+c3d23024a96a24943bd4c87bdd85e543958cdb4d464a9ba51c40e41e18811951  06-Nineteenth-Twentieth/Wittgenstein - Tractatus Logico-Philosophicus (German-English, PG5740).pdf

@@ -9,6 +9,7 @@
 | 层级 | 位置 | 功能 |
 |---|---|---|
 | 课程 | `curriculum/` | 安排学习次序、方法、练习、产出和过关标准 |
+| 原典书库 | [`library/`](../library/README.md) | 确定实际版本、记录本地可用文本并集中缺书清单 |
 | 原典导读 | [`reading-guides/`](../reading-guides/README.md) | 帮助进入一部具体原典，重构其概念和论证 |
 | 成熟文章 | [`articles/`](../articles/) | 保存已经形成独立判断、可以脱离课程单独阅读的文章 |
 
@@ -53,6 +54,7 @@
 | 问题—方法—历史—原典跨层导航 | 已完成 | [学习导航](cross-index.md) |
 | 评估标准 | 已完成 | [评估](assessment.md) |
 | 来源、翻译与 AI 规则 | 已完成 | [来源规范](source-policy.md) |
+| 配套原典书目、下载记录与购买清单 | 已完成 | [哲学原典书库](../library/README.md) |
 | 八个方法模块 | 已完成 | [方法总览](01-methods/README.md) |
 | 十七个可复制模板 | 已完成 | [模板目录](templates/README.md) |
 | 十七份第一轮原典导读 | 已完成 | [原典导读](../reading-guides/README.md) |
