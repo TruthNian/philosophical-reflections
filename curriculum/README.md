@@ -19,12 +19,12 @@
 1. [阶段 0：定向](00-orientation/README.md)
 2. [十二周起步课程](00-orientation/twelve-week-launch.md)
 3. [阶段 1：哲学方法](01-methods/README.md)
-4. 十个核心问题域
+4. [十个核心问题域](02-core-problems/README.md)
 5. 七条思想史主干
 6. 专题研究
 7. 个人哲学综合
 
-第 4—7 项会随对应版本逐步进入本目录。未发布的模块不会用空白页面或简略提纲冒充成品。
+第 5—7 项会随对应版本逐步进入本目录。未发布的模块不会用空白页面或简略提纲冒充成品。
 
 ## 统一学习循环
 
@@ -57,16 +57,16 @@
 
 | 编号 | 模块 | 状态 |
 |---:|---|---|
-| 1 | 知识与真理 | 待发布 |
-| 2 | 实在、因果与时间 | 待发布 |
-| 3 | 心灵、自我与意识 | 待发布 |
-| 4 | 自由与行动 | 待发布 |
-| 5 | 幸福、德性与善的生活 | 待发布 |
-| 6 | 道德与价值 | 待发布 |
-| 7 | 权力、正义与共同生活 | 待发布 |
-| 8 | 语言、解释与理解 | 待发布 |
-| 9 | 科学、宗教与世界图景 | 待发布 |
-| 10 | 美、技术、自然与未来 | 待发布 |
+| 1 | [知识与真理](02-core-problems/01-knowledge-and-truth.md) | 已完成 |
+| 2 | [实在、因果与时间](02-core-problems/02-reality-causation-and-time.md) | 已完成 |
+| 3 | [心灵、自我与意识](02-core-problems/03-mind-self-and-consciousness.md) | 已完成 |
+| 4 | [自由与行动](02-core-problems/04-freedom-and-action.md) | 已完成 |
+| 5 | [幸福、德性与善的生活](02-core-problems/05-happiness-virtue-and-good-life.md) | 已完成 |
+| 6 | [道德与价值](02-core-problems/06-morality-and-value.md) | 已完成 |
+| 7 | [权力、正义与共同生活](02-core-problems/07-power-justice-and-common-life.md) | 已完成 |
+| 8 | [语言、解释与理解](02-core-problems/08-language-interpretation-and-understanding.md) | 已完成 |
+| 9 | [科学、宗教与世界图景](02-core-problems/09-science-religion-and-worldviews.md) | 已完成 |
+| 10 | [美、技术、自然与未来](02-core-problems/10-beauty-technology-nature-and-future.md) | 已完成 |
 
 ### 七条思想史主干
 
