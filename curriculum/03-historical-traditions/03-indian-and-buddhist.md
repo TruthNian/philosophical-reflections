@@ -20,9 +20,13 @@
 
 ### 《奥义书》选篇
 
+配套导读：[《奥义书》选篇](../../reading-guides/indian-buddhist/upanishads-selection.md)。
+
 选《广林》《歌者》或《羯陀》中的稳定章节，追踪 *ātman*、*brahman*、业与再生。不同《奥义书》并非都主张同一套“梵我一如”；对话、仪式替代、否定言说和宇宙对应也承担不同功能。先还原每一段的说话者、提问和推论，再比较后世吠檀多如何把它纳入系统。
 
 ### 早期佛教经与《中论》选品
+
+配套导读：[《无我相经》](../../reading-guides/indian-buddhist/early-buddhist-not-self.md)；[《中论》第一、二、二十四品](../../reading-guides/indian-buddhist/nagarjuna-mmk-selection.md)。
 
 用《相应部》22.59 等早期经文分析无常、苦和无我之间的论证，不把无我写成“什么都不存在”。再读《中论》第一、二、二十四品，观察龙树如何用缘起和归谬批判自性。中观不是早期佛教的简单复述，二者之间存在数百年的教义和论辩发展。
 

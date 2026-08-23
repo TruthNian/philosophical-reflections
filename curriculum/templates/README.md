@@ -17,6 +17,7 @@
 - [对话记录](dialogue-record.md)：记录真正分歧与改变条件；
 - [周复盘](weekly-review.md)：维持节奏并发现理解缺口；
 - [年度复盘](annual-review.md)：重做世界观、审查成果并设计下一年。
+- [学习完成账本](completion-ledger.md)：用文件位置、评估、口试与随机复核证明各阶段完成。
 
 ## 专题研究模板
 

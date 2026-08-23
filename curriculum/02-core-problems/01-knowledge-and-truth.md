@@ -112,4 +112,4 @@
 - [Stanford Encyclopedia of Philosophy：Skepticism](https://plato.stanford.edu/entries/skepticism/)
 - [Stanford Encyclopedia of Philosophy：Truth](https://plato.stanford.edu/entries/truth/)
 - [Chinese Text Project：《庄子》](https://ctext.org/zhuangzi/zh)
-- [Gettier, “Is Justified True Belief Knowledge?”](https://doi.org/10.1093/analysis/23.6.121)
+- [Gettier, “Is Justified True Belief Knowledge?”](https://doi.org/10.1093/analys/23.6.121)

@@ -18,7 +18,7 @@
 ## 学习系统
 
 - [哲学课程总索引](curriculum/README.md)
-  把总路线落实为定向、方法、核心问题、思想史、研究与个人综合的可执行课程。目前七个阶段均已完成，包括[十个核心问题域](curriculum/02-core-problems/README.md)的四十周课程、[七条思想史主干](curriculum/03-historical-traditions/README.md)的三十五周课程，以及[专题研究与个人哲学](curriculum/04-research-and-synthesis/README.md)的二十周工作坊。
+  把总路线落实为定向、方法、核心问题、思想史、研究与个人综合的可执行课程。目前七个阶段均已完成，包括[十个核心问题域](curriculum/02-core-problems/README.md)的四十周课程、[七条思想史主干](curriculum/03-historical-traditions/README.md)的三十五周课程，以及[专题研究与个人哲学](curriculum/04-research-and-synthesis/README.md)的二十周工作坊。[跨层学习导航](curriculum/cross-index.md)负责把方法、问题、历史、原典、成果和生活检验连接成实际路径，[学习完成账本](curriculum/templates/completion-ledger.md)则保存可核查的阶段证据。
 
 - [原典导读](reading-guides/README.md)
   按统一标准整理作品身份、历史语境、阅读路线、概念结构、论证、解释争议和学习任务，不以导读代替原典。第一轮十七个锚点现已全部完成，覆盖七条思想史主干，并以马克思、维特根斯坦、波伏瓦、罗尔斯和法农把现代制度、语言、性别与殖民问题纳入同一学习系统。
@@ -46,4 +46,4 @@
 
 文章按思想人物或独立主题分类保存，使同一条问题线能够跨越多位作者与多种传统。
 
-当前版本：**3.7.0**
+当前版本：**4.0.0**
