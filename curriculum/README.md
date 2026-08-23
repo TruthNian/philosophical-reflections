@@ -28,7 +28,7 @@
 6. [专题研究](04-research-and-synthesis/README.md)
 7. [个人哲学综合](04-research-and-synthesis/06-personal-philosophy-constitution.md)
 
-七个阶段的学习路线、产出和评估结构已经形成。第一轮十七份原典学习页与八个方法模块现已全部补齐连续教学、操作协议、参考分析、闭卷检查和来源审计。下一批是十个核心问题域与七条思想史主干的教材化；交付状态以[中文学习入口](../learning/README.md)为准，不再用路线完整代替内容完整。
+七个阶段的学习路线、产出和评估结构已经形成。第一轮十七份原典学习页、八个方法模块与十个核心问题课程现已全部补齐连续教学、操作协议、参考分析、闭卷检查和来源审计。下一批是七条思想史主干的教材化；交付状态以[中文学习入口](../learning/README.md)为准，不再用路线完整代替内容完整。
 
 ## 统一学习循环
 
@@ -59,6 +59,7 @@
 | 来源、翻译与 AI 规则 | 已完成 | [来源规范](source-policy.md) |
 | 配套原典书目与底本记录 | P0 已入库；法农 Philcox 完整版已核验 | [哲学原典书库](../library/README.md) |
 | 八个方法模块 | 8 页全部可直接学习 | [方法总览](01-methods/README.md) |
+| 十个核心问题课程 | 10 页全部可直接学习 | [核心问题总览](02-core-problems/README.md) |
 | 十八个可复制模板 | 已完成 | [模板目录](templates/README.md) |
 | 十七份第一轮原典学习页 | 17 页全部可直接学习 | [原典学习页](../reading-guides/README.md) |
 | 全阶段完成证据账本 | 已完成 | [学习完成账本](templates/completion-ledger.md) |
@@ -67,16 +68,16 @@
 
 | 编号 | 模块 | 状态 |
 |---:|---|---|
-| 1 | [知识与真理](02-core-problems/01-knowledge-and-truth.md) | 路线已完成 |
-| 2 | [实在、因果与时间](02-core-problems/02-reality-causation-and-time.md) | 路线已完成 |
-| 3 | [心灵、自我与意识](02-core-problems/03-mind-self-and-consciousness.md) | 路线已完成 |
-| 4 | [自由与行动](02-core-problems/04-freedom-and-action.md) | 路线已完成 |
-| 5 | [幸福、德性与善的生活](02-core-problems/05-happiness-virtue-and-good-life.md) | 路线已完成 |
-| 6 | [道德与价值](02-core-problems/06-morality-and-value.md) | 路线已完成 |
-| 7 | [权力、正义与共同生活](02-core-problems/07-power-justice-and-common-life.md) | 路线已完成 |
-| 8 | [语言、解释与理解](02-core-problems/08-language-interpretation-and-understanding.md) | 路线已完成 |
-| 9 | [科学、宗教与世界图景](02-core-problems/09-science-religion-and-worldviews.md) | 路线已完成 |
-| 10 | [美、技术、自然与未来](02-core-problems/10-beauty-technology-nature-and-future.md) | 路线已完成 |
+| 1 | [知识与真理](02-core-problems/01-knowledge-and-truth.md) | 可直接学习 |
+| 2 | [实在、因果与时间](02-core-problems/02-reality-causation-and-time.md) | 可直接学习 |
+| 3 | [心灵、自我与意识](02-core-problems/03-mind-self-and-consciousness.md) | 可直接学习 |
+| 4 | [自由与行动](02-core-problems/04-freedom-and-action.md) | 可直接学习 |
+| 5 | [幸福、德性与善的生活](02-core-problems/05-happiness-virtue-and-good-life.md) | 可直接学习 |
+| 6 | [道德与价值](02-core-problems/06-morality-and-value.md) | 可直接学习 |
+| 7 | [权力、正义与共同生活](02-core-problems/07-power-justice-and-common-life.md) | 可直接学习 |
+| 8 | [语言、解释与理解](02-core-problems/08-language-interpretation-and-understanding.md) | 可直接学习 |
+| 9 | [科学、宗教与世界图景](02-core-problems/09-science-religion-and-worldviews.md) | 可直接学习 |
+| 10 | [美、技术、自然与未来](02-core-problems/10-beauty-technology-nature-and-future.md) | 可直接学习 |
 
 ### 七条思想史主干
 

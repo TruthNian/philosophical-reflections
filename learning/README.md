@@ -46,12 +46,32 @@
 
 具体顺序、十二周安排和双方法工作流见[方法总览](../curriculum/01-methods/README.md)。
 
+## 十个核心问题课程
+
+这十门同样可以只使用仓库正文完成第一轮。它们不重复计算前面的基础、原典或方法单元，而是把已有能力投入跨作者、跨传统的根本问题。每页均含贯穿案例、强异议后的实质修订、十题与逐题答案、100 分评分和闭卷迁移。
+
+| 顺序 | 课程 | 要形成的判断能力 | 状态 |
+|---:|---|---|---|
+| 1 | [知识与真理](../curriculum/02-core-problems/01-knowledge-and-truth.md) | 让信念非偶然地接上事实，并按风险调节核验 | 可直接学习 |
+| 2 | [实在、因果与时间](../curriculum/02-core-problems/02-reality-causation-and-time.md) | 分开同一、构成、因果与时间本体 | 可直接学习 |
+| 3 | [心灵、自我与意识](../curriculum/02-core-problems/03-mind-self-and-consciousness.md) | 分开心身解释、人格持续与实践身份 | 可直接学习 |
+| 4 | [自由与行动](../curriculum/02-core-problems/04-freedom-and-action.md) | 评价行动归属、控制程度、形成史和责任 | 可直接学习 |
+| 5 | [幸福、德性与善的生活](../curriculum/02-core-problems/05-happiness-virtue-and-good-life.md) | 比较体验、欲望、能力、活动与关系 | 可直接学习 |
+| 6 | [道德与价值](../curriculum/02-core-problems/06-morality-and-value.md) | 在后果、权利、申诉、德性与关怀间作可问责判断 | 可直接学习 |
+| 7 | [权力、正义与共同生活](../curriculum/02-core-problems/07-power-justice-and-common-life.md) | 审计权威、自由、分配、支配与制度纠错 | 可直接学习 |
+| 8 | [语言、解释与理解](../curriculum/02-core-problems/08-language-interpretation-and-understanding.md) | 分析指称、意义、言语行为、翻译与解释 | 可直接学习 |
+| 9 | [科学、宗教与世界图景](../curriculum/02-core-problems/09-science-religion-and-worldviews.md) | 分开证据层次，并逐项判断不同求真实践的关系 | 可直接学习 |
+| 10 | [美、技术、自然与未来](../curriculum/02-core-problems/10-beauty-technology-nature-and-future.md) | 对世界制造做审美、技术、生态和代际联合审计 | 可直接学习 |
+
+完整次序、四十周应用循环和阶段综合考核见[核心问题总览](../curriculum/02-core-problems/README.md)。
+
 ## 建设状态与下一批
 
 - [十七个第一轮原典学习页](../reading-guides/README.md)现已全部达到“可直接学习”；新增原典页以后仍须逐篇通过同一标准，不能以文件存在计数；
 - [十二周起步课程](../curriculum/00-orientation/twelve-week-launch.md)所需的基础、方法和原典单元现已全部达到“可直接学习”，可以只用本仓库完整执行；
 - [八个方法模块](../curriculum/01-methods/README.md)现已全部达到“可直接学习”，接下来仍须通过真实作答检验，而非以页面存在代替掌握；
-- 十个核心问题域与七条思想史主干目前主要是路线，不把阅读指令或文件数量算作教材完成。
+- [十个核心问题域](../curriculum/02-core-problems/README.md)现已全部达到“可直接学习”，十门分别完成内容与评分审计；
+- 七条思想史主干目前仍主要是路线，正按同一标准逐条教材化，不把阅读指令或文件数量算作完成。
 
 ## 学习方式
 
@@ -95,6 +115,7 @@ P0 原典已经进入私人证据库。仓库接下来按实际学习顺序扩�
 3. 十二周课程所需的柏拉图、《论语》《庄子》、笛卡尔与休谟六个原典单元（完整升级已交付）；
 4. 亚里士多德、《奥义书》、《无我相经》、《中论》、奥古斯丁和马克思六个剩余锚点（完整升级已交付）；
 5. 八个方法模块的完整中文教材化（已交付）；
-6. 十个核心问题域与七条思想史主干的完整中文教材化。
+6. 十个核心问题域的完整中文教材化（已交付）；
+7. 七条思想史主干的完整中文教材化。
 
 状态以本页为准，不用“文件很多”制造已经学完的假象。
