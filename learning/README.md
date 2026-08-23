@@ -9,8 +9,19 @@
 | 1 | [哲学从哪里开始：九个不能被常识迅速结束的问题](00-foundations/nine-philosophical-problems.md) | 建立知识、心灵、自由、道德、正义、死亡与意义的问题地图 | 可直接学习 |
 | 2 | [论证不是争吵：从一个主张到可检验的理由结构](01-methods/how-arguments-work.md) | 学会重构、评估和修改论证 | 可直接学习 |
 | 3 | [命题逻辑起步](01-methods/propositional-logic-basics.md) | 掌握符号化、真值表、有效性与基础推演 | 可直接学习 |
-| 4 | [十七个原典学习页](../reading-guides/README.md) | 进入具体作品的概念、论证、争议和练习 | 正文已成，逐步补齐答案与闭卷检查 |
-| 5 | [十二周起步课程](../curriculum/00-orientation/twelve-week-launch.md) | 把前述内容组成第一次完整训练 | 三个基础单元已接入；其余周次使用现有中文学习页 |
+| 4 | [阿维森纳《治疗论·形而上学》](../reading-guides/medieval-abrahamic/avicenna-metaphysics-selection.md) | 学会本质—存在、可能—必然和依存论证 | 可直接学习 |
+| 5 | [维特根斯坦《哲学研究》](../reading-guides/nineteenth-twentieth/wittgenstein-philosophical-investigations.md) | 学会语言游戏、规则遵循、私人语言与哲学治疗 | 可直接学习 |
+| 6 | [波伏瓦《模糊性的伦理学》](../reading-guides/nineteenth-twentieth/beauvoir-ethics-of-ambiguity.md) | 学会处境自由、共同自由、压迫与行动判断 | 可直接学习 |
+| 7 | [罗尔斯《正义论》](../reading-guides/contemporary-global/rawls-theory-of-justice.md) | 学会原初状态、两项原则、制度比较与强异议 | 可直接学习 |
+| 8 | [法农《黑皮肤，白面具》](../reading-guides/contemporary-global/fanon-black-skin-white-masks.md) | 学会分析殖民语言、身体、欲望、承认与解放 | 可直接学习 |
+
+这八个单元都有中文教学正文、论证重构、原创案例、逐题参考分析、评分点、闭卷复现和来源审计。“可直接学习”只说明课程材料已交付，不表示读者已经自动学会；仍须完成作答和复现。
+
+## 已有正文但尚未达标
+
+- [其余十二个原典学习页](../reading-guides/README.md)已有作品身份、概念、论证和练习，但尚未逐篇补齐参考分析与闭卷复现，因此状态仍是“正文已成，待补检验”；
+- [十二周起步课程](../curriculum/00-orientation/twelve-week-launch.md)已经给出顺序和产出，其中基础方法周可直接学习，原典周仍随对应学习页逐步升级；
+- 十个核心问题域与七条思想史主干目前主要是路线，不把阅读指令或文件数量算作教材完成。
 
 ## 学习方式
 
@@ -50,8 +61,8 @@
 P0 原典已经进入私人证据库。仓库接下来按实际学习顺序扩展，而不是按书架顺序摘要：
 
 1. 起步问题、非形式论证与命题逻辑（首轮已完成）；
-2. 十二周课程所需的柏拉图、《论语》《庄子》、笛卡尔与休谟单元；
-3. 阿维森纳、维特根斯坦、波伏瓦、罗尔斯、法农五个现代学习单元的练习答案与闭卷升级；
-4. 十个核心问题域和七条思想史主干的完整中文教材化。
+2. 阿维森纳、维特根斯坦、波伏瓦、罗尔斯、法农五个 P0 锚点（首轮完整升级已交付）；
+3. 十二周课程所需的柏拉图、《论语》《庄子》、笛卡尔与休谟单元；
+4. 其余锚点、十个核心问题域和七条思想史主干的完整中文教材化。
 
 状态以本页为准，不用“文件很多”制造已经学完的假象。

@@ -20,13 +20,13 @@
 ## 学习系统
 
 - [中文学习入口](learning/README.md)
-  学习从仓库正文开始，而不是从书单开始。首批已经交付[九个哲学问题](learning/00-foundations/nine-philosophical-problems.md)、[论证方法](learning/01-methods/how-arguments-work.md)与[命题逻辑](learning/01-methods/propositional-logic-basics.md)三个自足单元；后续内容按[仓库内中文学习契约](curriculum/repository-learning-contract.md)逐项升级，只有中文正文、练习、自查和来源审计齐备才标记为“可直接学习”。
+  学习从仓库正文开始，而不是从书单开始。现有三个基础单元与阿维森纳、维特根斯坦、波伏瓦、罗尔斯、法农五个原典单元达到“可直接学习”标准；后续内容按[仓库内中文学习契约](curriculum/repository-learning-contract.md)逐项升级，只有中文正文、练习、参考分析、闭卷复现和来源审计齐备才计入。
 
 - [哲学课程总索引](curriculum/README.md)
   把总路线落实为定向、方法、核心问题、思想史、研究与个人综合的课程结构。七个阶段的路线、产出和评估已经搭好；“路线已完成”不再等于“教材已完成”，实际中文内容状态以[学习入口](learning/README.md)为准。[跨层学习导航](curriculum/cross-index.md)负责连接方法、问题、历史、原典、成果和生活检验。
 
 - [原典导读](reading-guides/README.md)
-  十七个中文学习页整理作品身份、历史语境、概念结构、主要论证、解释争议和学习任务。它们不要求读者另读外文原典；当前概念正文已经形成，正在按新标准补齐参考分析与闭卷检查。
+  十七个中文学习页整理作品身份、历史语境、概念结构、主要论证、解释争议和学习任务。它们不要求读者另读外文原典；五个 P0 锚点已经完整教材化，其余十二页仍明确标作“正文已成，待补检验”。
 
 - [哲学原典书库](library/README.md)
   为编写和回源核验保存稳定底本：现有 84 个经过格式与内容核验的文件，并提供[完整核心书目](library/core-bibliography.md)、[取得状态](library/acquisition-list.md)、[核验记录](library/download-manifest.md)和 SHA-256 校验值。书籍文件保存在私人本地目录，不是学习者的必读清单；GitHub 只保存版本与来源记录。
@@ -56,4 +56,4 @@
 
 文章按思想人物或独立主题分类保存，使同一条问题线能够跨越多位作者与多种传统。
 
-当前版本：**4.2.0**
+当前版本：**4.3.0**

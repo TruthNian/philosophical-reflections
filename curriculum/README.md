@@ -28,7 +28,7 @@
 6. [专题研究](04-research-and-synthesis/README.md)
 7. [个人哲学综合](04-research-and-synthesis/06-personal-philosophy-constitution.md)
 
-七个阶段的学习路线、产出和评估结构已经形成。第一轮十七份原典学习页已有概念与论证正文，但仍在按“仓库即可学习”的标准补齐参考分析和闭卷检查。教材交付状态以[中文学习入口](../learning/README.md)为准，不再用路线完整代替内容完整。
+七个阶段的学习路线、产出和评估结构已经形成。第一轮十七份原典学习页已有概念与论证正文；其中五个 P0 锚点已补齐参考分析和闭卷检查，其余十二页仍在升级。教材交付状态以[中文学习入口](../learning/README.md)为准，不再用路线完整代替内容完整。
 
 ## 统一学习循环
 
@@ -52,15 +52,15 @@
 | 定向与思想基线 | 已完成 | [阶段 0](00-orientation/README.md) |
 | 十二周起步课程路线 | 已完成 | [直接开始](00-orientation/twelve-week-launch.md) |
 | 仓库内中文学习规则 | 已完成 | [学习契约](repository-learning-contract.md) |
-| 首批自足中文教材 | 3 个单元已完成 | [中文学习入口](../learning/README.md) |
+| 自足中文教材 | 8 个单元可直接学习 | [中文学习入口](../learning/README.md) |
 | 学习工作流 | 已完成 | [工作流](study-workflow.md) |
 | 问题—方法—历史—原典跨层导航 | 已完成 | [学习导航](cross-index.md) |
 | 评估标准 | 已完成 | [评估](assessment.md) |
 | 来源、翻译与 AI 规则 | 已完成 | [来源规范](source-policy.md) |
-| 配套原典书目与底本记录 | P0 已入库；法农完整新译已核验 | [哲学原典书库](../library/README.md) |
+| 配套原典书目与底本记录 | P0 已入库；法农 Philcox 完整版已核验 | [哲学原典书库](../library/README.md) |
 | 八个方法模块 | 正文已成，待补检验 | [方法总览](01-methods/README.md) |
 | 十七个可复制模板 | 已完成 | [模板目录](templates/README.md) |
-| 十七份第一轮原典学习页 | 正文已成，待补检验 | [原典学习页](../reading-guides/README.md) |
+| 十七份第一轮原典学习页 | 5 页可直接学习；12 页待补检验 | [原典学习页](../reading-guides/README.md) |
 | 全阶段完成证据账本 | 已完成 | [学习完成账本](templates/completion-ledger.md) |
 
 ### 十个核心问题域
@@ -94,13 +94,13 @@
 
 | 内容 | 状态 | 入口 |
 |---|---|---|
-| 研究问题的缩小与可行性判断 | 已完成 | [研究问题与提案](04-research-and-synthesis/01-research-question-and-proposal.md) |
-| 文献检索、研究矩阵与引文管理 | 已完成 | [检索与来源管理](04-research-and-synthesis/02-literature-search-and-source-management.md) |
-| 贡献识别与长文论证设计 | 已完成 | [贡献与论证设计](04-research-and-synthesis/03-contribution-and-argument-design.md) |
-| 长论文起草与两轮实质重写 | 已完成 | [起草与重写](04-research-and-synthesis/04-long-paper-drafting-and-revision.md) |
-| 批评工坊与口头答辩 | 已完成 | [批评与答辩](04-research-and-synthesis/05-critique-workshop-and-oral-defense.md) |
-| 个人哲学纲要 | 已完成 | [个人哲学宪章](04-research-and-synthesis/06-personal-philosophy-constitution.md) |
-| 年度修订与生活检验 | 已完成 | [年度修订](04-research-and-synthesis/07-annual-revision-and-life-test.md) |
+| 研究问题的缩小与可行性判断 | 课程流程已交付 | [研究问题与提案](04-research-and-synthesis/01-research-question-and-proposal.md) |
+| 文献检索、研究矩阵与引文管理 | 课程流程已交付 | [检索与来源管理](04-research-and-synthesis/02-literature-search-and-source-management.md) |
+| 贡献识别与长文论证设计 | 课程流程已交付 | [贡献与论证设计](04-research-and-synthesis/03-contribution-and-argument-design.md) |
+| 长论文起草与两轮实质重写 | 课程流程已交付 | [起草与重写](04-research-and-synthesis/04-long-paper-drafting-and-revision.md) |
+| 批评工坊与口头答辩 | 课程流程已交付 | [批评与答辩](04-research-and-synthesis/05-critique-workshop-and-oral-defense.md) |
+| 个人哲学纲要 | 课程流程已交付 | [个人哲学宪章](04-research-and-synthesis/06-personal-philosophy-constitution.md) |
+| 年度修订与生活检验 | 课程流程已交付 | [年度修订](04-research-and-synthesis/07-annual-revision-and-life-test.md) |
 
 ## 一份课程怎样才算完成
 
