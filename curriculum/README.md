@@ -28,7 +28,7 @@
 6. [专题研究](04-research-and-synthesis/README.md)
 7. [个人哲学综合](04-research-and-synthesis/06-personal-philosophy-constitution.md)
 
-七个阶段的学习路线、产出和评估结构已经形成。第一轮十七份原典学习页已有概念与论证正文；其中十一页已补齐参考分析和闭卷检查，其余六页仍在升级。教材交付状态以[中文学习入口](../learning/README.md)为准，不再用路线完整代替内容完整。
+七个阶段的学习路线、产出和评估结构已经形成。第一轮十七份原典学习页现已全部补齐连续教学、参考分析、闭卷检查和来源审计。下一批是八个方法模块、十个核心问题域和七条思想史主干的教材化；交付状态以[中文学习入口](../learning/README.md)为准，不再用路线完整代替内容完整。
 
 ## 统一学习循环
 
@@ -52,7 +52,7 @@
 | 定向与思想基线 | 已完成 | [阶段 0](00-orientation/README.md) |
 | 十二周起步课程 | 可完整执行 | [直接开始](00-orientation/twelve-week-launch.md) |
 | 仓库内中文学习规则 | 已完成 | [学习契约](repository-learning-contract.md) |
-| 自足中文教材 | 14 个单元可直接学习 | [中文学习入口](../learning/README.md) |
+| 自足中文教材 | 20 个单元可直接学习 | [中文学习入口](../learning/README.md) |
 | 学习工作流 | 已完成 | [工作流](study-workflow.md) |
 | 问题—方法—历史—原典跨层导航 | 已完成 | [学习导航](cross-index.md) |
 | 评估标准 | 已完成 | [评估](assessment.md) |
@@ -60,7 +60,7 @@
 | 配套原典书目与底本记录 | P0 已入库；法农 Philcox 完整版已核验 | [哲学原典书库](../library/README.md) |
 | 八个方法模块 | 正文已成，待补检验 | [方法总览](01-methods/README.md) |
 | 十七个可复制模板 | 已完成 | [模板目录](templates/README.md) |
-| 十七份第一轮原典学习页 | 11 页可直接学习；6 页待补检验 | [原典学习页](../reading-guides/README.md) |
+| 十七份第一轮原典学习页 | 17 页全部可直接学习 | [原典学习页](../reading-guides/README.md) |
 | 全阶段完成证据账本 | 已完成 | [学习完成账本](templates/completion-ledger.md) |
 
 ### 十个核心问题域

@@ -11,21 +11,27 @@
 | 3 | [命题逻辑起步](01-methods/propositional-logic-basics.md) | 掌握符号化、真值表、有效性与基础推演 | 可直接学习 |
 | 4 | [柏拉图《苏格拉底的申辩》](../reading-guides/ancient-greek/plato-apology.md) | 学会区分法律裁决、外在损失、道德损坏与可公开检验的使命 | 可直接学习 |
 | 5 | [柏拉图《游叙弗伦》](../reading-guides/ancient-greek/plato-euthyphro.md) | 学会追问定义、权威认可与价值根据的方向 | 可直接学习 |
-| 6 | [《论语》](../reading-guides/chinese-east-asian/analects.md) | 学会分析仁、礼、角色修养、正名及其现代边界 | 可直接学习 |
-| 7 | [《庄子·内篇》](../reading-guides/chinese-east-asian/zhuangzi-inner-chapters.md) | 学会在有限视角中保留事实判断、转换能力与行动 | 可直接学习 |
-| 8 | [笛卡尔《第一哲学沉思集》](../reading-guides/early-modern/descartes-meditations.md) | 学会分层怀疑、重建依赖链并识别循环风险 | 可直接学习 |
-| 9 | [休谟《人类理解研究》](../reading-guides/early-modern/hume-enquiry.md) | 学会分析归纳、因果、证言与缓和怀疑 | 可直接学习 |
-| 10 | [阿维森纳《治疗论·形而上学》](../reading-guides/medieval-abrahamic/avicenna-metaphysics-selection.md) | 学会本质—存在、可能—必然和依存论证 | 可直接学习 |
-| 11 | [维特根斯坦《哲学研究》](../reading-guides/nineteenth-twentieth/wittgenstein-philosophical-investigations.md) | 学会语言游戏、规则遵循、私人语言与哲学治疗 | 可直接学习 |
-| 12 | [波伏瓦《模糊性的伦理学》](../reading-guides/nineteenth-twentieth/beauvoir-ethics-of-ambiguity.md) | 学会处境自由、共同自由、压迫与行动判断 | 可直接学习 |
-| 13 | [罗尔斯《正义论》](../reading-guides/contemporary-global/rawls-theory-of-justice.md) | 学会原初状态、两项原则、制度比较与强异议 | 可直接学习 |
-| 14 | [法农《黑皮肤，白面具》](../reading-guides/contemporary-global/fanon-black-skin-white-masks.md) | 学会分析殖民语言、身体、欲望、承认与解放 | 可直接学习 |
+| 6 | [亚里士多德《尼各马可伦理学》](../reading-guides/ancient-greek/aristotle-nicomachean-ethics.md) | 学会把兴盛、德性、中道、选择、友谊与沉思放进完整一生 | 可直接学习 |
+| 7 | [《论语》](../reading-guides/chinese-east-asian/analects.md) | 学会分析仁、礼、角色修养、正名及其现代边界 | 可直接学习 |
+| 8 | [《庄子·内篇》](../reading-guides/chinese-east-asian/zhuangzi-inner-chapters.md) | 学会在有限视角中保留事实判断、转换能力与行动 | 可直接学习 |
+| 9 | [《奥义书》选篇](../reading-guides/indian-buddhist/upanishads-selection.md) | 学会区分财富与不死、世界根据、自我认识及训练，不把多部文本压成一个体系 | 可直接学习 |
+| 10 | [早期佛教《无我相经》](../reading-guides/indian-buddhist/early-buddhist-not-self.md) | 学会用五蕴、无常、苦与不可主宰审查强自我认同 | 可直接学习 |
+| 11 | [龙树《中论》选品](../reading-guides/indian-buddhist/nagarjuna-mmk-selection.md) | 学会分析自性、缘起、空、二谛与虚无主义异议 | 可直接学习 |
+| 12 | [奥古斯丁《忏悔录》选卷](../reading-guides/medieval-abrahamic/augustine-confessions-selection.md) | 学会分析恶之匮缺、分裂意志、恩典与心灵中的时间 | 可直接学习 |
+| 13 | [阿维森纳《治疗论·形而上学》](../reading-guides/medieval-abrahamic/avicenna-metaphysics-selection.md) | 学会本质—存在、可能—必然和依存论证 | 可直接学习 |
+| 14 | [笛卡尔《第一哲学沉思集》](../reading-guides/early-modern/descartes-meditations.md) | 学会分层怀疑、重建依赖链并识别循环风险 | 可直接学习 |
+| 15 | [休谟《人类理解研究》](../reading-guides/early-modern/hume-enquiry.md) | 学会分析归纳、因果、证言与缓和怀疑 | 可直接学习 |
+| 16 | [马克思作品锚点组](../reading-guides/nineteenth-twentieth/marx-selected-works.md) | 学会从实践、物质生活、价值形式与商品拜物教分析制度 | 可直接学习 |
+| 17 | [维特根斯坦《哲学研究》](../reading-guides/nineteenth-twentieth/wittgenstein-philosophical-investigations.md) | 学会语言游戏、规则遵循、私人语言与哲学治疗 | 可直接学习 |
+| 18 | [波伏瓦《模糊性的伦理学》](../reading-guides/nineteenth-twentieth/beauvoir-ethics-of-ambiguity.md) | 学会处境自由、共同自由、压迫与行动判断 | 可直接学习 |
+| 19 | [罗尔斯《正义论》](../reading-guides/contemporary-global/rawls-theory-of-justice.md) | 学会原初状态、两项原则、制度比较与强异议 | 可直接学习 |
+| 20 | [法农《黑皮肤，白面具》](../reading-guides/contemporary-global/fanon-black-skin-white-masks.md) | 学会分析殖民语言、身体、欲望、承认与解放 | 可直接学习 |
 
-这十四个单元都有中文教学正文、论证重构、原创案例、逐题参考分析、评分点、闭卷复现和来源审计。“可直接学习”只说明课程材料已交付，不表示读者已经自动学会；仍须完成作答和复现。
+这二十个单元都有中文教学正文、论证重构、原创案例、逐题参考分析、评分点、闭卷复现和来源审计。“可直接学习”只说明课程材料已交付，不表示读者已经自动学会；仍须完成作答和复现。
 
-## 已有正文但尚未达标
+## 下一批仍在教材化
 
-- [其余六个原典学习页](../reading-guides/README.md)已有作品身份、概念、论证和练习，但尚未逐篇补齐参考分析与闭卷复现，因此状态仍是“正文已成，待补检验”；
+- [十七个第一轮原典学习页](../reading-guides/README.md)现已全部达到“可直接学习”；新增原典页以后仍须逐篇通过同一标准，不能以文件存在计数；
 - [十二周起步课程](../curriculum/00-orientation/twelve-week-launch.md)所需的基础、方法和原典单元现已全部达到“可直接学习”，可以只用本仓库完整执行；
 - 十个核心问题域与七条思想史主干目前主要是路线，不把阅读指令或文件数量算作教材完成。
 
@@ -69,6 +75,7 @@ P0 原典已经进入私人证据库。仓库接下来按实际学习顺序扩�
 1. 起步问题、非形式论证与命题逻辑（首轮已完成）；
 2. 阿维森纳、维特根斯坦、波伏瓦、罗尔斯、法农五个 P0 锚点（首轮完整升级已交付）；
 3. 十二周课程所需的柏拉图、《论语》《庄子》、笛卡尔与休谟六个原典单元（完整升级已交付）；
-4. 其余六个锚点、八个方法模块、十个核心问题域和七条思想史主干的完整中文教材化。
+4. 亚里士多德、《奥义书》、《无我相经》、《中论》、奥古斯丁和马克思六个剩余锚点（完整升级已交付）；
+5. 八个方法模块、十个核心问题域和七条思想史主干的完整中文教材化。
 
 状态以本页为准，不用“文件很多”制造已经学完的假象。
