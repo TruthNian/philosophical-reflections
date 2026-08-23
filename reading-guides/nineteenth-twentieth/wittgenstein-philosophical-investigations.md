@@ -1,4 +1,6 @@
-# 维特根斯坦《哲学研究》导读：语言怎样使问题成立，也使问题消散
+# 维特根斯坦《哲学研究》中文学习页：语言怎样使问题成立，也使问题消散
+
+> 本页就是学习正文。下文节号用于说明思想推进并供编写端对照第四版德英本，不要求学习者阅读原书。
 
 ## 一、作品身份
 
@@ -94,7 +96,7 @@
 
 ## 十一、来源
 
-- Ludwig Wittgenstein, *Philosophische Untersuchungen / Philosophical Investigations*，优先使用带节号的可靠德英本；若用第四版，记录编辑者 P. M. S. Hacker 与 Joachim Schulte，并将原“第二部分”单独处理。
+- Ludwig Wittgenstein, *Philosophische Untersuchungen / Philosophical Investigations*, revised 4th ed.，G. E. M. Anscombe、P. M. S. Hacker、Joachim Schulte 译编，Wiley-Blackwell 2009，ISBN 978-1-4051-5929-6。主正文按 §§1—693；*Philosophy of Psychology — A Fragment* 与正文分开处理。
 - [The Ludwig Wittgenstein Project：作品与版权说明](https://wittgensteinproject.org/w/index.php/Project:The_copyright_status_of_Wittgenstein%27s_works)
 - [Stanford Encyclopedia of Philosophy：Ludwig Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/)
 - [Stanford Encyclopedia of Philosophy：Rule-Following and Intentionality](https://plato.stanford.edu/entries/rule-following/)

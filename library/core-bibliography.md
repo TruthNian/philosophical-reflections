@@ -1,10 +1,10 @@
 # 课程核心书目
 
-这份书目完整对应当前哲学学习体系：十二周起步、十个核心问题域、七条思想史主干与十七个原典导读。书名先写作品的原始标题；原始文字不适合作为实际学习文本时，再列可靠英文书名。具体购买版次见[待购买与待取得清单](acquisition-list.md)，本地文件的来源与核验见[下载记录](download-manifest.md)。
+这份书目是哲学学习体系的编写端来源地图：十二周起步、十个核心问题域、七条思想史主干与十七个原典学习页都可由此回查。书名先写作品的原始标题；编写者不能可靠使用原始文字时，再列可靠英文版本。它不要求学习者阅读这些书；学习入口是仓库中的中文教材。底本状态见[取得清单](acquisition-list.md)，本地文件的来源与核验见[核验记录](download-manifest.md)。
 
 状态含义：
 
-- **已下载**：本地已有可信、合法、完整的可读文件；
+- **已入库**：本地文件身份与内容完整性已经核验；公开来源与私人文件的取得记录分别说明；
 - **历史英译已下载**：可以立即开始，关键术语宜用现代译本复核；
 - **原文已下载，英译待购**：原文只承担核对功能，英文版仍需取得；
 - **待购**：未找到可以合法下载并确认完整性的可信版本；
@@ -14,14 +14,14 @@
 
 | 作者 | 原作或版本名称 | 课程用途 | 状态 |
 |---|---|---|---|
-| Thomas Nagel | *What Does It All Mean? A Very Short Introduction to Philosophy* | 第 3 周建立九类问题地图 | 待购 |
-| Anthony Weston | *A Rulebook for Arguments*, 5th ed. | 第 8 周及全部写作训练 | 待购 |
+| Thomas Nagel | *What Does It All Mean? A Very Short Introduction to Philosophy* | 第 3 周建立九类问题地图 | 已入库；中文学习单元已发布 |
+| Anthony Weston | *A Rulebook for Arguments*, 5th ed. | 第 8 周及全部写作训练 | 已入库；中文学习单元已发布 |
 | P. D. Magnus 等 | *forall x: Calgary — An Introduction to Formal Logic* | 命题逻辑、真值表、自然演绎 | 已下载，CC BY 4.0 |
 | Bertrand Russell | *The Problems of Philosophy* | 入门补读：表象、知识、共相与哲学价值 | 已下载 |
 
 ## 二、十七个锚点原典
 
-这十七个单元与[原典导读](../reading-guides/README.md)一一对应。先补齐“待购”项，整套导读便能在本地完成。
+这十七个单元与[原典中文学习页](../reading-guides/README.md)一一对应。全部锚点底本已经入库，后续工作是把现有中文正文补齐参考分析和闭卷检查。
 
 | 传统 | 作者与原始标题 | 实际阅读版本 | 状态 |
 |---|---|---|---|
@@ -34,14 +34,14 @@
 | 佛教 | *Anattalakkhaṇa Sutta*, SN 22.59 | Bhikkhu Sujato 英译，收于 *Linked Discourses* | 已下载 |
 | 佛教 | Nāgārjuna, *Mūlamadhyamakakārikā* 第一、二、二十四品 | 梵文与鳩摩羅什《中論》汉译 | 已下载 |
 | 基督教 | Augustine, *Confessiones* VII、VIII、XI | E. B. Pusey 英译 | 历史英译已下载 |
-| 伊斯兰 | Ibn Sīnā, *Kitāb al-Shifāʾ: al-Ilāhiyyāt* | *The Metaphysics of The Healing*, Michael E. Marmura 英译 | 待购 |
+| 伊斯兰 | Ibn Sīnā, *Kitāb al-Shifāʾ: al-Ilāhiyyāt* | *The Metaphysics of The Healing*, Michael E. Marmura 英译 | 已入库，英—阿对照 |
 | 近代 | René Descartes, *Meditationes de prima philosophia* | 拉丁文与 William Molyneux 英译 | 已下载 |
 | 近代 | David Hume, *An Enquiry Concerning Human Understanding* | Selby-Bigge 传统英文本 | 已下载 |
 | 十九世纪 | Karl Marx, *Thesen über Feuerbach*；*Die deutsche Ideologie* 选段；*Das Kapital* I.1 | 德文提纲与 Marxists Internet Archive 英译 | 已下载 |
-| 二十世纪 | Ludwig Wittgenstein, *Philosophische Untersuchungen* | 德文原文；Anscombe–Hacker–Schulte 第四版英译 | 原文已下载，英译待购 |
-| 二十世纪 | Simone de Beauvoir, *Pour une morale de l’ambiguïté* | *The Ethics of Ambiguity*, Bernard Frechtman 英译 | 待购 |
-| 当代政治 | John Rawls, *A Theory of Justice* | *A Theory of Justice: Revised Edition* | 待购 |
-| 去殖民 | Frantz Fanon, *Peau noire, masques blancs* | *Black Skin, White Masks*, Richard Philcox 英译 | 待购 |
+| 二十世纪 | Ludwig Wittgenstein, *Philosophische Untersuchungen* | 德文原文；Anscombe–Hacker–Schulte 第四版英译 | 德文开放版与第四版德英本均已入库 |
+| 二十世纪 | Simone de Beauvoir, *Pour une morale de l’ambiguïté* | *The Ethics of Ambiguity*, Bernard Frechtman 英译 | 已入库 |
+| 当代政治 | John Rawls, *A Theory of Justice* | *A Theory of Justice: Revised Edition* | 修订版正文已入库；EPUB 为个人重封装 |
+| 去殖民 | Frantz Fanon, *Peau noire, masques blancs* | *Black Skin, White Masks*, Richard Philcox 英译 | Penguin 2021 完整 EPUB 已入库；另存 Markmann 对照本 |
 
 ## 三、古希腊与希腊化世界
 
@@ -49,7 +49,7 @@
 
 | 作者 | 原始标题；英文阅读名 | 状态 |
 |---|---|---|
-| Heraclitus、Parmenides 等 | 原作残篇；*A Presocratics Reader* | 待购可靠残篇选本 |
+| Heraclitus、Parmenides 等 | 原作残篇；*A Presocratics Reader*, 2nd ed. | Curd、McKirahan 编译本已入库 |
 | Plato | *Μένων* (*Meno*) | 已下载 |
 | Plato | *Κρίτων* (*Crito*) | 已下载 |
 | Plato | *Πολιτεία* (*Republic*) | 已下载 |
@@ -107,7 +107,7 @@
 | Augustine | *Confessiones* (*Confessions*) | 历史英译已下载 |
 | Boethius | *De consolatione philosophiae* 与 *Opuscula sacra* | 拉丁—英文历史版已下载 |
 | Anselm | *Proslogion* | 待购现代英译 |
-| Ibn Sīnā / Avicenna | *Kitāb al-Shifāʾ: al-Ilāhiyyāt* | 待购 Marmura 英译 |
+| Ibn Sīnā / Avicenna | *Kitāb al-Shifāʾ: al-Ilāhiyyāt* | Marmura 英—阿对照本已入库 |
 | al-Ghazālī | *Tahāfut al-falāsifa* (*The Incoherence of the Philosophers*) | 待购 Marmura 英译 |
 | Ibn Rushd / Averroes | *Tahāfut al-tahāfut* (*The Incoherence of the Incoherence*) | 待购英译 |
 | Maimonides | *Dalālat al-ḥāʾirīn* (*The Guide for the Perplexed*) | Friedländer 历史英译已下载 |
@@ -151,11 +151,11 @@
 | Gottlob Frege | *Über Sinn und Bedeutung* 等；*The Frege Reader* | 待购英文选集 |
 | Bertrand Russell | *On Denoting* | 已下载 |
 | Ludwig Wittgenstein | *Tractatus Logico-Philosophicus* | 德英历史版已下载 |
-| Ludwig Wittgenstein | *Philosophische Untersuchungen* | 德文原文已下载；第四版英译待购 |
+| Ludwig Wittgenstein | *Philosophische Untersuchungen* | 德文开放版与第四版德英本已入库 |
 | Edmund Husserl | *Die Idee der Phänomenologie* (*The Idea of Phenomenology*) | 待购英译 |
 | Martin Heidegger | *Die Frage nach der Technik*；*The Question Concerning Technology and Other Essays* | 待购英译 |
 | Jean-Paul Sartre | *L’existentialisme est un humanisme* (*Existentialism Is a Humanism*) | 待购英译 |
-| Simone de Beauvoir | *Pour une morale de l’ambiguïté* (*The Ethics of Ambiguity*) | 待购英译 |
+| Simone de Beauvoir | *Pour une morale de l’ambiguïté* (*The Ethics of Ambiguity*) | Frechtman 英译已入库 |
 | Simone de Beauvoir | *Le Deuxième Sexe* (*The Second Sex*) | 待购完整英译 |
 | Maurice Merleau-Ponty | *Phénoménologie de la perception* (*Phenomenology of Perception*) | 待购 Landes 英译 |
 | Hans-Georg Gadamer | *Wahrheit und Methode* (*Truth and Method*) | 待购英译 |
@@ -173,9 +173,9 @@
 | G. E. M. Anscombe | “Modern Moral Philosophy” | 当代伦理的概念与历史诊断 | 待合法取得 |
 | Philippa Foot | *Virtues and Vices and Other Essays in Moral Philosophy* | 德性、理由与实践理性 | 专题选择 |
 | Bernard Williams | *Ethics and the Limits of Philosophy* | 对道德理论形式的批评 | 专题选择 |
-| John Rawls | *A Theory of Justice: Revised Edition* | 公平、基本结构与制度选择 | 待购 |
+| John Rawls | *A Theory of Justice: Revised Edition* | 公平、基本结构与制度选择 | 修订版正文已入库；包装来源另记 |
 | Robert Nozick | *Anarchy, State, and Utopia* | 权利理论与体验机器 | 专题选择 |
-| Frantz Fanon | *Peau noire, masques blancs*；*Black Skin, White Masks* | 殖民、语言、身体与承认 | 待购 |
+| Frantz Fanon | *Peau noire, masques blancs*；*Black Skin, White Masks* | 殖民、语言、身体与承认 | Philcox 完整新译与 Markmann 对照本已入库 |
 | Aimé Césaire | *Discours sur le colonialisme*；*Discourse on Colonialism* | 殖民与欧洲现代性 | 专题选择 |
 | Kwasi Wiredu | *Cultural Universals and Particulars* | 非洲哲学、概念去殖民与跨文化可通约性 | 专题选择 |
 | Paulin Hountondji | *African Philosophy: Myth and Reality* | 对“民族哲学”的内部批判 | 专题选择 |

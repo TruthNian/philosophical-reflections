@@ -1,4 +1,6 @@
-# 法农《黑皮肤，白面具》选段导读：殖民秩序怎样进入语言、身体与欲望
+# 法农《黑皮肤，白面具》中文学习页：殖民秩序怎样进入语言、身体与欲望
+
+> 本页就是学习正文。下文章节用于说明思想推进并供编写端对照 Philcox 主本与 Markmann 旧译，不要求学习者阅读英文原书。
 
 ## 一、作品身份
 
@@ -97,7 +99,7 @@
 
 ## 十一、来源
 
-- Frantz Fanon, *Peau noire, masques blancs* (Éditions du Seuil, 1952)；英译可对照 Charles Lam Markmann 与 Richard Philcox 版本。引用中译时记录译者、章、页，并核对第五章题名和术语。
+- Frantz Fanon, *Peau noire, masques blancs* (Éditions du Seuil, 1952)。主底本为 Richard Philcox 英译，Penguin Books 2021，ISBN 978-0-241-39667-4；八章、注释和印刷页 1—206 已核验完整。Charles Lam Markmann 英译、Pluto Press 2008 作为旧译对照。一个 Grove 2008 Philcox PDF 因终止于印刷页 184、缺第七章与结语而被拒绝。
 - [Stanford Encyclopedia of Philosophy：Frantz Fanon](https://plato.stanford.edu/entries/frantz-fanon/)
 - [Stanford Encyclopedia of Philosophy：Colonialism](https://plato.stanford.edu/entries/colonialism/)
 - [Stanford Encyclopedia of Philosophy：Critical Philosophy of Race](https://plato.stanford.edu/entries/critical-phil-race/)

@@ -1,39 +1,41 @@
-# 待购买与待取得清单
+# 编写底本取得状态与缺口
 
-这张清单只收录当前书库中没有可信、合法、完整学习文本的作品。购买后优先选择可长期保存的 EPUB 或无 DRM PDF；若出版社只售纸书，记录 ISBN 与版次，不用来历不明的电子版补位。
+这张清单服务于课程编写，不是学习者书单。只有缺少可靠底本会阻碍中文教材核验时，才需要继续取得文件。优先选择可长期保存的 EPUB 或无 DRM PDF；正文身份、文件包装来源和公开传播权分别记录。
 
-## P0：先买这七项
+## P0：已补齐
 
-这七项会直接打通十二周起步课程和十七个原典导读。按表中次序取得即可。
+七个目标作品均已有可用于编写的底本。学习者无需阅读它们；它们只用于核对仓库中文正文。
 
-| 顺序 | 确切版本 | 识别信息 | 取得理由 |
+| 顺序 | 目标版本 | 当前状态 | 核验结论 |
 |---:|---|---|---|
-| 1 | Thomas Nagel, *What Does It All Mean? A Very Short Introduction to Philosophy* | Oxford University Press, 1987；ISBN 978-0-19-505292-3；[书目信息](https://search.worldcat.org/title/16003550) | 十二周课程第 3 周的直接教材；英文原作，不存在译本选择问题 |
-| 2 | Anthony Weston, *A Rulebook for Arguments*, 5th ed. | Hackett, 2018；ISBN 978-1-62466-654-4；[出版社](https://hackettpublishing.com/philosophy/a-rulebook-for-arguments-group) | 十二周课程第 8 周及以后全部论证写作；第六版要到 2026 年 9 月才出版，现在使用第五版 |
-| 3 | Avicenna, *The Metaphysics of The Healing*, trans. Michael E. Marmura | Brigham Young University / University of Chicago Press, 2005，868 页；[出版社](https://press.uchicago.edu/ucp/books/book/distributed/M/bo3622795.html) | 十七个锚点中唯一完全缺失的中世纪主文本；完整英译、分卷章稳定 |
-| 4 | Ludwig Wittgenstein, *Philosophical Investigations*, 4th ed., ed. P. M. S. Hacker and Joachim Schulte | Wiley-Blackwell, 2009；精装 ISBN 978-1-4051-5928-9，平装 ISBN 978-1-4051-5929-6；[出版社](https://www.wiley-vch.de/en/areas-interest/humanities-social-sciences/philosophical-investigations-978-1-4051-5928-9) | 本地只有德文原文；第四版把全部段落统一编号并大幅修订英译 |
-| 5 | Simone de Beauvoir, *The Ethics of Ambiguity*, trans. Bernard Frechtman | Philosophical Library；电子书 ISBN 978-1-4532-2848-7；[出版社](https://www.philosophicallibrary.com/book/the-ethics-of-ambiguity/) | 十七个锚点的完整英文本；课程直接使用自由、处境与他人三组论证 |
-| 6 | John Rawls, *A Theory of Justice: Revised Edition* | Belknap Press of Harvard University Press, 1999；印刷 ISBN 978-0-674-00078-0；电子版 DOI 10.4159/9780674042582；[修订版书目](https://search.worldcat.org/title/41266156) | 导读按修订版定位；不能用 1971 初版静默替换 |
-| 7 | Frantz Fanon, *Black Skin, White Masks*, trans. Richard Philcox | Grove Press, 2008；ISBN 978-0-8021-4300-6；[出版社](https://groveatlantic.com/book/black-skin-white-masks/) | 译文更新且能稳定对应课程的语言、身体图式与承认段落 |
+| 1 | Thomas Nagel, *What Does It All Mean?*，OUP 1987 | EPUB 已入库 | 版权页、十章与正文完整；中文九问题单元已发布 |
+| 2 | Anthony Weston, *A Rulebook for Arguments*, 5th ed. | Hackett EPUB 已入库 | ISBN、十章、两附录与正文完整；中文论证单元已发布 |
+| 3 | Avicenna, *The Metaphysics of The Healing*, Marmura 译 | BYU 2005 英—阿 PDF 已入库 | 书名页、版权页、分卷与页面渲染均通过 |
+| 4 | Wittgenstein, *Philosophical Investigations*, 4th ed. | Wiley 2009 德英 PDF 已入库 | Anscombe–Hacker–Schulte 译编，统一节号完整 |
+| 5 | Beauvoir, *The Ethics of Ambiguity*, Frechtman 译 | Open Road 2011 EPUB 已入库 | 三部结构与结尾完整 |
+| 6 | Rawls, *A Theory of Justice: Revised Edition* | 1999 修订版正文 EPUB 已入库 | 书名、目录和正文吻合；文件为个人重封装，包装来源有限 |
+| 7 | Fanon, *Black Skin, White Masks*, Philcox 译 | Penguin 2021 EPUB 已入库 | 八章、注释和印刷页 1—206 完整；ISBN 978-0-241-39667-4 |
 
-购得后分别放入：
+P0 在私人书库中的位置：
 
 ```text
 00-Method/                 Nagel；Weston
 04-Abrahamic-Medieval/     Avicenna
 06-Nineteenth-Twentieth/   Wittgenstein；Beauvoir
-07-Contemporary/           Rawls；Fanon
+07-Contemporary/           Rawls；Fanon（Philcox 主本、Markmann 对照本）
 ```
+
+一个 Grove 2008 Philcox PDF 经核验只到印刷页 184，缺第七章“承认”和第八章结语，未进入正式书库。完整 Penguin EPUB 已消除这一内容缺口。
 
 ## P1：补齐思想史骨架与关键现代译本
 
-P0 完成后按正在学习的历史主干购买。这里优先补“没有可读文本”的洞，不追求把所有旧译本立刻换新。
+P0 完成后，P1 只按正在编写的历史主干逐项取得。这里记录编写端缺口，不要求学习者购买，也不追求把所有旧译本立刻换新。
 
 ### 古希腊、印度、中国与中世纪
 
 | 作品 | 建议版本 | 用途 |
 |---|---|---|
-| 赫拉克利特、巴门尼德等残篇 | Patricia Curd 编，Richard D. McKirahan 译，*A Presocratics Reader*, 2nd ed., Hackett | 早期希腊来源层次与变化争论；避免把后人转述当作者完整著作 |
+| 赫拉克利特、巴门尼德等残篇 | Patricia Curd 编，Richard D. McKirahan 译，*A Presocratics Reader*, 2nd ed., Hackett | **已入库**；早期希腊来源层次与变化争论 |
 | Sextus Empiricus, *Outlines of Skepticism* | Julia Annas、Jonathan Barnes 译，2nd ed., Cambridge University Press | 希腊怀疑论锚点；与伊壁鸠鲁、斯多亚构成三方比较 |
 | Plotinus, *The Enneads* | Lloyd P. Gerson 编译的现代完整英译，Cambridge University Press | 替换本地 Guthrie 历史译本中的术语风险 |
 | *A Source Book in Indian Philosophy* | Sarvepalli Radhakrishnan、Charles A. Moore 编，Princeton University Press | 一册补入正理、胜论、数论、弥曼差与吠檀多的基础选段 |
@@ -90,9 +92,9 @@ P0 完成后按正在学习的历史主干购买。这里优先补“没有可�
 | 性别、酷儿与残障 | Simone de Beauvoir, *The Second Sex* 完整英译；Judith Butler, *Gender Trouble*；Elizabeth Barnes, *The Minority Body* | Eva Kittay、Susan Wendell、Alison Kafer |
 | 动物、环境与技术 | Peter Singer, *Animal Liberation Now*；Hans Jonas, *The Imperative of Responsibility* | Val Plumwood、Donna Haraway、Andrew Feenberg |
 
-## 购买文件交付规则
+## 后续底本交付规则
 
-用户购得文件后，按以下方式交给书库即可：
+有新文件时，按以下方式交给书库即可：
 
 1. 文件名不必先改；把 EPUB 或 PDF 下载到 `C:\Users\SYY\OneDrive\Books`；
 2. 保留购买页面、订单或出版社书目信息，不需要上传给 GitHub；

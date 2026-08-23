@@ -2,6 +2,8 @@
 
 论证不是争吵，也不是任何带有“因为”的句子。它是一组命题之间的支持关系：若前提成立，结论应当因此获得某种程度的理由。
 
+本页是方法地图。完整中文教材与答案见[非形式论证单元](../../learning/01-methods/how-arguments-work.md)和[命题逻辑单元](../../learning/01-methods/propositional-logic-basics.md)，不要求另读英文教材。
+
 ## 一、先区分四件事
 
 - **命题**可以为真或为假；
@@ -74,7 +76,7 @@
 - 自然演绎的基本规则；
 - 必要条件与充分条件。
 
-可使用免费教材 [*forall x: Calgary*](https://forallx.openlogicproject.org/)；若使用中文教材，应覆盖以上内容并含有可核对答案的练习。
+上述内容先用仓库内的[命题逻辑起步单元](../../learning/01-methods/propositional-logic-basics.md)学习并完成二十道练习。开放许可教材 *forall x: Calgary* 作为编写端扩展底本和可选深读材料，不是通过本模块的前提。
 
 ## 七、练习
 
@@ -86,7 +88,7 @@
 
 完成证据是一组至少 12 张[论证图](../templates/argument-map.md)，其中演绎、归纳、溯因和类比各至少两张。
 
-## 参考入口
+## 来源审计入口
 
 - [forall x: Calgary](https://forallx.openlogicproject.org/)
 - [Harvard：哲学论文写作短指南](https://philosophy.fas.harvard.edu/sites/g/files/omnuum4436/files/phildept/files/brief_guide_to_writing_philosophy_paper.pdf)

@@ -4,8 +4,8 @@
 |---|---|
 | 快照日期 | 2026-08-24 |
 | 本地路径 | `C:\Users\SYY\OneDrive\Books\Philosophy Library` |
-| 文件总数 | 75 |
-| 总大小 | 162.84 MiB（170,754,795 bytes） |
+| 文件总数 | 84 |
+| 总大小 | 196.26 MiB（205,794,078 bytes） |
 
 ## 来源构成
 
@@ -22,19 +22,22 @@
 | Ludwig Wittgenstein Project | 2 | 《哲学研究》德文开放版 PDF 与 EPUB；[项目](https://www.wittgensteinproject.org/)、[书库](https://books.wittgensteinproject.org/) |
 | Drew University | 1 | 罗素 1905 年 “On Denoting” 的大学转录；[正文](https://users.drew.edu/~jlenz/br-on-denoting.html) |
 | Open Logic Project | 1 | *forall x: Calgary* 的 CC BY 4.0 教材；[项目页](https://forallx.openlogicproject.org/) |
+| 用户提供的私人底本 | 9 | P0 七项、法农 Markmann 对照本及 *A Presocratics Reader*；只保存在私人本地书库，逐项核对文件内部版本与完整性，不提供 GitHub 下载 |
 
-这些数字合计 75。来源数量按最终本地文件计算，不按下载请求次数计算。
+这些数字合计 84。来源数量按最终本地文件计算，不按下载请求次数计算。私人底本的“内容身份已核验”不等于其文件包装或公开发行来源已获同等确认；罗尔斯 EPUB 的重封装状态单独标示。
 
 ## 完整文件清单
 
-### `00-Method`（2）
+### `00-Method`（4）
 
 ```text
 forall x Calgary - Introduction to Formal Logic (English, CC BY 4.0).pdf
 Russell - Problems of Philosophy (English, PG5827).epub
+Anthony Weston - A Rulebook for Arguments 5th ed (English, Hackett 2017).epub
+Thomas Nagel - What Does It All Mean (English, OUP 1987).epub
 ```
 
-### `01-Ancient-Greek`（17）
+### `01-Ancient-Greek`（18）
 
 ```text
 Aristotle - Metaphysics (Ross, English, MIT Classics).txt
@@ -42,6 +45,7 @@ Aristotle - Nicomachean Ethics (English, PG8438).epub
 Aristotle - On the Soul (Smith, English, MIT Classics).txt
 Aristotle - Politics (Ellis, English, PG6762).epub
 Aristotle - Posterior Analytics (Mure, English, MIT Classics).txt
+Curd and McKirahan - A Presocratics Reader 2nd ed (English, Hackett 2011).pdf
 Epictetus - Enchiridion (Carter, English, PG45109).epub
 Epicurus - Letter to Menoeceus (Hicks, English, MIT Classics).txt
 Marcus Aurelius - Meditations (English, PG2680).epub
@@ -80,7 +84,7 @@ Upanishads Part II - Sacred Books of the East Vol 15 (Muller, English, 1884 scan
 中論（鳩摩羅什漢譯，中文維基文庫，二十七品全文）.html
 ```
 
-### `04-Abrahamic-Medieval`（7）
+### `04-Abrahamic-Medieval`（8）
 
 ```text
 Aquinas - Summa Theologica Part I (English Dominican Fathers, PG17611).epub
@@ -88,6 +92,7 @@ Aquinas - Summa Theologica Part I-II (English Dominican Fathers, PG17897).epub
 Aquinas - Summa Theologica Part II-II (English Dominican Fathers, PG18755).epub
 Aquinas - Summa Theologica Part III (English Dominican Fathers, PG19950).epub
 Augustine - Confessions (Pusey, English, PG3296).epub
+Avicenna - The Metaphysics of The Healing (Marmura, English-Arabic, BYU 2005).pdf
 Boethius - Theological Tractates and Consolation (Latin-English, PG13316).epub
 Maimonides - Guide for the Perplexed (Friedlander 2nd ed, English, PG73584).epub
 ```
@@ -116,11 +121,12 @@ Spinoza - Ethics (Elwes, English, PG3800).epub
 Wollstonecraft - Vindication of the Rights of Woman (English, PG3420).epub
 ```
 
-### `06-Nineteenth-Twentieth`（16）
+### `06-Nineteenth-Twentieth`（18）
 
 ```text
 Dewey - Democracy and Education (English, PG852).epub
 Du Bois - Souls of Black Folk (English, PG408).epub
+Beauvoir - The Ethics of Ambiguity (Frechtman, English, Open Road 2011).epub
 Hegel - Philosophy of Mind (Wallace, English, PG39064).epub
 Hegel - The Phenomenology of Mind Vol 1 (Baillie, English, 1910 scan).pdf
 Hegel - The Phenomenology of Mind Vol 2 (Baillie, English, 1910 scan).pdf
@@ -135,9 +141,16 @@ William James - Pragmatism (English, PG5116).epub
 Wittgenstein - Philosophische Untersuchungen (German, LWP).epub
 Wittgenstein - Philosophische Untersuchungen (German, LWP).pdf
 Wittgenstein - Tractatus Logico-Philosophicus (German-English, PG5740).pdf
+Wittgenstein - Philosophical Investigations 4th ed (Anscombe-Hacker-Schulte, German-English, Wiley 2009).pdf
 ```
 
-`07-Contemporary` 当前为空，专门接收 P0 购得的罗尔斯、法农及后续当代文本。
+### `07-Contemporary`（3）
+
+```text
+Fanon - Black Skin White Masks (Markmann, English, Pluto 2008).pdf
+Fanon - Black Skin White Masks (Philcox, English, Penguin 2021).epub
+Rawls - A Theory of Justice Revised Edition (English, personal EPUB, 1999 text verified).epub
+```
 
 ## Project Gutenberg 编号审计
 
@@ -159,10 +172,12 @@ Wittgenstein - Tractatus Logico-Philosophicus (German-English, PG5740).pdf
 
 ### EPUB
 
-- 58 个 EPUB 全部通过 ZIP 容器测试；
+- 63 个 EPUB 全部通过 ZIP 容器测试；
 - 均能读取 `META-INF/container.xml` 并定位 OPF 书目文件；
 - 抽取正文后检查了作品题名、章节标志或关键段落；
-- 新增的 Berkeley、Locke 第二卷、Kant《实践理性批判》和 Boethius 拉丁—英文版均重新完成同一检查。
+- P0 新增的内格尔、Weston、波伏瓦、罗尔斯与法农均检查目录、开头、结尾和版权信息；
+- 法农 Penguin 2021 EPUB 明确标注 Richard Philcox 译、ISBN 978-0-241-39667-4，含八章、注释与印刷页 1—206；
+- 罗尔斯正文与 1999 修订版书名、目录和内容相符，但 OPF 显示个人重封装来源，因此只标记为私人核对底本，不称出版社原生电子版。
 
 ### PDF
 
@@ -177,8 +192,12 @@ Wittgenstein - Tractatus Logico-Philosophicus (German-English, PG5740).pdf
 | Marx and Engels, *Selected Works*, vol. 1 | 593 | 未加密；书名页、目录与选文可抽取 |
 | Wittgenstein, *Philosophische Untersuchungen* | 288 | 未加密；标题、段落编号与正文清楚 |
 | Wittgenstein, *Tractatus Logico-Philosophicus* | 173 | 未加密；德英对照标题与编号正文清楚 |
+| Curd、McKirahan, *A Presocratics Reader*, 2nd ed. | 202 | 未加密；Hackett 书名页、版权页、目录与正文清楚 |
+| Avicenna, *The Metaphysics of The Healing* | 424 | 未加密；BYU 2005 英—阿对照书名页、版权页与正文清楚 |
+| Wittgenstein, *Philosophical Investigations*, 4th ed. | 592 | 未加密；Wiley 2009 第四版、三位译编者与统一节号清楚 |
+| Fanon, *Black Skin, White Masks*, Markmann trans. | 225 | 未加密；Pluto 2008 书名页、译者、目录与正文清楚 |
 
-九份 PDF 均做了页面渲染检查，不以“能抽取文字”代替目视确认。
+十三份 PDF 均做了页面渲染检查，不以“能抽取文字”代替目视确认。
 
 ### HTML 与 TXT
 
@@ -187,9 +206,10 @@ Wittgenstein - Tractatus Logico-Philosophicus (German-English, PG5740).pdf
 - 罗素 “On Denoting” 与马克思《费尔巴哈提纲》含正文而非导航页；
 - 亚里士多德三份 TXT 分别含完整卷章标志，伊壁鸠鲁书信含开头问候与死亡论证。
 
-## 两次被拒绝的文件
+## 三次被拒绝的文件
 
 1. 中文 Wikisource 的《中論》EPUB 只包含入口页，没有二十七品正文，已经删除并用完整可打印 HTML 替换；
 2. *Sacred Books of the East* 第 15 卷 EPUB 只含不完整导出，已经删除并用 1884 年 457 页完整扫描本替换。
+3. Grove 2008 的法农 Philcox PDF 虽书名页和版权页正确，却在物理页 202、印刷页 184 终止；目录所列第七章与第八章缺失。它未进入正式书库，改用完整 Penguin 2021 EPUB。
 
-这两个例子说明文件扩展名、体积和来源域名都不能单独证明完整性。最终状态以内容检查和 [SHA-256 清单](SHA256SUMS.txt)为准。
+这三个例子说明文件扩展名、体积、正确版权页和来源域名都不能单独证明完整性。最终状态以内容检查和 [SHA-256 清单](SHA256SUMS.txt)为准。

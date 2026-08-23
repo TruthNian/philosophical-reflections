@@ -1,4 +1,6 @@
-# 阿维森纳《治疗论·形而上学》选段导读：可能者为何需要存在根据
+# 阿维森纳《治疗论·形而上学》中文学习页：可能者为何需要存在根据
+
+> 本页就是学习正文。下文卷章定位用于说明思想推进并供编写端对照 Marmura 英—阿本，不要求学习者阅读原书。
 
 ## 一、作品身份
 
@@ -95,7 +97,7 @@
 
 ## 十一、来源
 
-- Ibn Sīnā, *al-Shifāʾ, al-Ilāhiyyāt* I、VI、VIII；可参考 Michael E. Marmura 英译 *The Metaphysics of The Healing*，引用实际版本卷、章、页。
+- Ibn Sīnā, *al-Shifāʾ, al-Ilāhiyyāt* I、VI、VIII；主底本为 Michael E. Marmura 英译 *The Metaphysics of The Healing*，Brigham Young University Press 2005 英—阿对照版，ISBN 0-934893-77-2。引用按卷、章与实际页码。
 - [Stanford Encyclopedia of Philosophy：Ibn Sina's Metaphysics](https://plato.stanford.edu/entries/ibn-sina-metaphysics/)
 - [Stanford Encyclopedia of Philosophy：Ibn Sina](https://plato.stanford.edu/entries/ibn-sina/)
 - [Stanford Encyclopedia of Philosophy：Medieval Philosophy](https://plato.stanford.edu/entries/medieval-philosophy/)

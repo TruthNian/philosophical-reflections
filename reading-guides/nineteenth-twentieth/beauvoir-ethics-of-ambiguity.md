@@ -1,4 +1,6 @@
-# 波伏瓦《模糊性的伦理学》导读：自由为何只能在他人的自由中实现
+# 波伏瓦《模糊性的伦理学》中文学习页：自由为何只能在他人的自由中实现
+
+> 本页就是学习正文。下文部、节定位用于说明思想推进并供编写端回源，不要求学习者阅读英文原书。
 
 ## 一、作品身份
 
@@ -92,7 +94,7 @@
 
 ## 十一、来源
 
-- Simone de Beauvoir, *Pour une morale de l’ambiguïté* (1947)；英译可参 Bernard Frechtman, *The Ethics of Ambiguity*。引用任何中译本时记录译者、版本、部、节和页码。
+- Simone de Beauvoir, *Pour une morale de l’ambiguïté* (1947)；主底本为 Bernard Frechtman 英译 *The Ethics of Ambiguity*，Open Road 2011 电子版，三部正文已核验完整。归属按部、节定位，页码只与实际使用版本配套。
 - [Stanford Encyclopedia of Philosophy：Simone de Beauvoir](https://plato.stanford.edu/entries/beauvoir/)
 - [Stanford Encyclopedia of Philosophy：Existentialism](https://plato.stanford.edu/entries/existentialism/)
 - [Stanford Encyclopedia of Philosophy：Feminist Perspectives on Power](https://plato.stanford.edu/entries/feminist-power/)

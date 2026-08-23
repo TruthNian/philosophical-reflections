@@ -1,10 +1,13 @@
+996f1413389b4dd96dc1f0e8a25b8584f9e2255ec6c59825bf54845e6611d5d6  00-Method/Anthony Weston - A Rulebook for Arguments 5th ed (English, Hackett 2017).epub
 2a8fea85b358fb45ba7835dee5166b5990b7a7c11ad4dc6c41ebdd9a265c1888  00-Method/forall x Calgary - Introduction to Formal Logic (English, CC BY 4.0).pdf
 599789e6ee10bf4f937b17649ccd834917169629a7b80bbbd5004f39d0fa1a5e  00-Method/Russell - Problems of Philosophy (English, PG5827).epub
+45c72ae41e4b1b473c48db72dad793adc7cb1207670ae3d4dc9a345e9eec32e7  00-Method/Thomas Nagel - What Does It All Mean (English, OUP 1987).epub
 35f509905b809b7671f6704706188252a509b3b93928a695aab18e287cf78f22  01-Ancient-Greek/Aristotle - Metaphysics (Ross, English, MIT Classics).txt
 b5245c2b04935132d3709f2175b2a73784e199759e14b590ac9380bdb68ccca1  01-Ancient-Greek/Aristotle - Nicomachean Ethics (English, PG8438).epub
 77350984c82f56a7dfe0b872b99208b9817e9cc4ca13510b81fc1b882d8862df  01-Ancient-Greek/Aristotle - On the Soul (Smith, English, MIT Classics).txt
 db73a95cc0055e4eaeacd0179331f01e066e34ba7ebfd05d4e30872f4588ff8a  01-Ancient-Greek/Aristotle - Politics (Ellis, English, PG6762).epub
 e9911818d894dc066ac496453315b99c6bebe02aa69610dc752db3f2492e2a49  01-Ancient-Greek/Aristotle - Posterior Analytics (Mure, English, MIT Classics).txt
+e72e58e185cd55cecf316052bee5a5cae0274466dbb6af2181230aded1e9f215  01-Ancient-Greek/Curd and McKirahan - A Presocratics Reader 2nd ed (English, Hackett 2011).pdf
 185851ad17ec34649cd94bc65bb2ed93026680289a484dab0e28ea38b061516e  01-Ancient-Greek/Epictetus - Enchiridion (Carter, English, PG45109).epub
 11d363927aad38e07fe99f5e817aac35c24e487780e773d04092a4fdd682141d  01-Ancient-Greek/Epicurus - Letter to Menoeceus (Hicks, English, MIT Classics).txt
 783fcbedde1960deb21105d6b40dba220c0ba9434c82ab02d2792cb59a4696ad  01-Ancient-Greek/Marcus Aurelius - Meditations (English, PG2680).epub
@@ -36,6 +39,7 @@ b695ede849a58853a4feae5ba0c0e3f7fc59b98a3e4f80031c334e6be2229df2  03-Indian-Budd
 d4441386699015b8815e4b81e9531b58e2cb14562b3cea54bc83f97d3852fc7f  04-Abrahamic-Medieval/Aquinas - Summa Theologica Part II-II (English Dominican Fathers, PG18755).epub
 3416fc3b22cdbeb3bf566ce442dfff0bbea613273a20c79c02a1ca1e98477944  04-Abrahamic-Medieval/Aquinas - Summa Theologica Part III (English Dominican Fathers, PG19950).epub
 c35867493ec30e1d233eb85725d508999bdcea88fa54d07e6f87ac089e044ea4  04-Abrahamic-Medieval/Augustine - Confessions (Pusey, English, PG3296).epub
+c3d7c3c6e44d902d42e6514032547e818c49093dbe66b7016d25c709d9a9a110  04-Abrahamic-Medieval/Avicenna - The Metaphysics of The Healing (Marmura, English-Arabic, BYU 2005).pdf
 e0ea26a714cf73c93f3553bc3d937c0a47b2142542523cce5f269abd55acd68f  04-Abrahamic-Medieval/Boethius - Theological Tractates and Consolation (Latin-English, PG13316).epub
 1593211a9cc51b4b324a039ec20f2b663f965a6aefa2fac87d1c118927b5f7b9  04-Abrahamic-Medieval/Maimonides - Guide for the Perplexed (Friedlander 2nd ed, English, PG73584).epub
 003e3142773dcfdae38e7b17266bc0f77aaa2612d1e17ad8696db4f93b34fa0f  05-Early-Modern/Bacon - Novum Organum (Devey, English, PG45988).epub
@@ -57,6 +61,7 @@ ba1d760a669a3084c9d4908e0e9a15454771487ea2bda63d59f2459ee3041588  05-Early-Moder
 30f9672ccf9d3d0f8d00298117c3f2b6e801f5ed48f6a99cdf9336eb2bb1e434  05-Early-Modern/Rousseau - Social Contract and Discourses (Cole, English, PG46333).epub
 9eafbdb3fb29a29a1b5cafc0564e9a21a01267da066abd9ddc4202a4222fefd0  05-Early-Modern/Spinoza - Ethics (Elwes, English, PG3800).epub
 77a381b34351b173b883355af908795b21eded52799b0443015fc4961f7836bb  05-Early-Modern/Wollstonecraft - Vindication of the Rights of Woman (English, PG3420).epub
+e472b9d4112e98ffbdefe2a94daca77631f9c2eb3989dead218e7c04971c2cd2  06-Nineteenth-Twentieth/Beauvoir - The Ethics of Ambiguity (Frechtman, English, Open Road 2011).epub
 50152907351d47aa93e3dc62046d90307f7e54dde031bd38e5237bde2a1a87d3  06-Nineteenth-Twentieth/Dewey - Democracy and Education (English, PG852).epub
 5abc6ade9ba8744c7600f17622669f9e649ea395743ac6ee12525d98d312e5b5  06-Nineteenth-Twentieth/Du Bois - Souls of Black Folk (English, PG408).epub
 4034b932ae273738e69e9c9e8b3b7fa25d65457427dff228d2a0b068637e3bf7  06-Nineteenth-Twentieth/Hegel - Philosophy of Mind (Wallace, English, PG39064).epub
@@ -70,6 +75,10 @@ c15870c4f92f761c5f0486eda9070279a1a4e938a10eb5b89cf91868e1beb075  06-Nineteenth-
 b8725a3e8a74e12c7b786e4310e409eacac9017198bb0aacc06df5584f00587e  06-Nineteenth-Twentieth/Peirce - Chance Love and Logic (English, PG65274).epub
 9c64525b6d845d1630baee147fdd541680046b5431035973d6f9aa778a773edf  06-Nineteenth-Twentieth/Russell - On Denoting (English, 1905, Drew University).html
 babde5e5c6b9e6ea4bdca0b84a24a7ef800f56fcf88528a19c899ae04511584c  06-Nineteenth-Twentieth/William James - Pragmatism (English, PG5116).epub
+a64623a55e2b1fa7141a35066da87c4c97fb059d27d3c24ff0f442da7a01efa4  06-Nineteenth-Twentieth/Wittgenstein - Philosophical Investigations 4th ed (Anscombe-Hacker-Schulte, German-English, Wiley 2009).pdf
 48c33086026943b6599900403713f1a57bf9a861278168f0314404c0c152f1a4  06-Nineteenth-Twentieth/Wittgenstein - Philosophische Untersuchungen (German, LWP).epub
 7d4985ba0c87de7723fa40f7c35a11528b8525148a2f95cae62308bd47756704  06-Nineteenth-Twentieth/Wittgenstein - Philosophische Untersuchungen (German, LWP).pdf
 c3d23024a96a24943bd4c87bdd85e543958cdb4d464a9ba51c40e41e18811951  06-Nineteenth-Twentieth/Wittgenstein - Tractatus Logico-Philosophicus (German-English, PG5740).pdf
+56c4a3f3bade7785c74a4757b404198fe0e8601bfbaf7c2ce5f836aa6918138c  07-Contemporary/Fanon - Black Skin White Masks (Markmann, English, Pluto 2008).pdf
+21473d5b19bad4ddc8a1c9bb812f958e6d7a8a4974b46e3773aa1a8eef1d93f5  07-Contemporary/Fanon - Black Skin White Masks (Philcox, English, Penguin 2021).epub
+f48b41c593152c03999ac9c9075097ed9959c81e725a228ca986d3d73e70c063  07-Contemporary/Rawls - A Theory of Justice Revised Edition (English, personal EPUB, 1999 text verified).epub

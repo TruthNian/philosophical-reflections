@@ -1,4 +1,6 @@
-# 罗尔斯《正义论》选段导读：怎样为社会基本结构选择公平原则
+# 罗尔斯《正义论》中文学习页：怎样为社会基本结构选择公平原则
+
+> 本页就是学习正文。下文节号用于说明思想推进并供编写端回源，不要求学习者阅读英文原书。
 
 ## 一、作品身份
 
@@ -99,7 +101,7 @@
 
 ## 十一、来源
 
-- John Rawls, *A Theory of Justice*, original edition (1971), revised edition (1999)。引用时标明版次、节号和页码；可结合 *Justice as Fairness: A Restatement* 辨认后期修改，但不能无标记混用。
+- John Rawls, *A Theory of Justice*, revised edition (Belknap Press, 1999)。本地 EPUB 的书名、目录和正文与修订版相符，但文件外壳显示个人重封装来源，因此只用于私人回源，不称出版社原生电子版。引用以修订版节号和实际页码为准；可结合 *Justice as Fairness: A Restatement* 辨认后期修改，但不能无标记混用。
 - [Stanford Encyclopedia of Philosophy：John Rawls](https://plato.stanford.edu/entries/rawls/)
 - [Stanford Encyclopedia of Philosophy：Original Position](https://plato.stanford.edu/entries/original-position/)
 - [Stanford Encyclopedia of Philosophy：Reflective Equilibrium](https://plato.stanford.edu/entries/reflective-equilibrium/)
