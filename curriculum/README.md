@@ -21,10 +21,10 @@
 3. [阶段 1：哲学方法](01-methods/README.md)
 4. [十个核心问题域](02-core-problems/README.md)
 5. [七条思想史主干](03-historical-traditions/README.md)
-6. 专题研究
-7. 个人哲学综合
+6. [专题研究](04-research-and-synthesis/README.md)
+7. [个人哲学综合](04-research-and-synthesis/06-personal-philosophy-constitution.md)
 
-第 6—7 项会随对应版本逐步进入本目录。未发布的模块不会用空白页面或简略提纲冒充成品。
+七个阶段均已形成可执行课程。原典导读按照统一标准逐部进入独立目录，不用空白页面或简略提纲冒充成品。
 
 ## 统一学习循环
 
@@ -51,7 +51,7 @@
 | 评估标准 | 已完成 | [评估](assessment.md) |
 | 来源、翻译与 AI 规则 | 已完成 | [来源规范](source-policy.md) |
 | 八个方法模块 | 已完成 | [方法总览](01-methods/README.md) |
-| 八个可复制模板 | 已完成 | [模板目录](templates/README.md) |
+| 十六个可复制模板 | 已完成 | [模板目录](templates/README.md) |
 
 ### 十个核心问题域
 
@@ -82,12 +82,15 @@
 
 ### 研究与个人综合
 
-| 内容 | 状态 |
-|---|---|
-| 研究问题的缩小与可行性判断 | 待发布 |
-| 文献检索、研究矩阵与引文管理 | 待发布 |
-| 长论文设计、批评与重写 | 待发布 |
-| 个人哲学纲要与年度修订 | 待发布 |
+| 内容 | 状态 | 入口 |
+|---|---|---|
+| 研究问题的缩小与可行性判断 | 已完成 | [研究问题与提案](04-research-and-synthesis/01-research-question-and-proposal.md) |
+| 文献检索、研究矩阵与引文管理 | 已完成 | [检索与来源管理](04-research-and-synthesis/02-literature-search-and-source-management.md) |
+| 贡献识别与长文论证设计 | 已完成 | [贡献与论证设计](04-research-and-synthesis/03-contribution-and-argument-design.md) |
+| 长论文起草与两轮实质重写 | 已完成 | [起草与重写](04-research-and-synthesis/04-long-paper-drafting-and-revision.md) |
+| 批评工坊与口头答辩 | 已完成 | [批评与答辩](04-research-and-synthesis/05-critique-workshop-and-oral-defense.md) |
+| 个人哲学纲要 | 已完成 | [个人哲学宪章](04-research-and-synthesis/06-personal-philosophy-constitution.md) |
+| 年度修订与生活检验 | 已完成 | [年度修订](04-research-and-synthesis/07-annual-revision-and-life-test.md) |
 
 ## 一份课程怎样才算完成
 
