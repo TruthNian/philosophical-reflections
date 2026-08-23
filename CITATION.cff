@@ -4,9 +4,9 @@ title: "哲学随想"
 type: book
 authors:
   - family-names: "TruthNian"
-version: 2.2.0
-date-released: 2026-08-16
+version: 3.0.0
+date-released: 2026-08-23
 license: CC-BY-4.0
 repository-code: "https://github.com/TruthNian/philosophical-reflections"
 url: "https://github.com/TruthNian/philosophical-reflections"
-abstract: "以清楚中文阅读哲学原典，从具体生活问题出发，区分文本、历史说明与个人思考。"
+abstract: "以清楚中文阅读哲学原典，从具体生活问题出发，训练独立判断，并区分文本、历史说明与个人思考。"
