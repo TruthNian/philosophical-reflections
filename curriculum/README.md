@@ -28,7 +28,7 @@
 6. [专题研究](04-research-and-synthesis/README.md)
 7. [个人哲学综合](04-research-and-synthesis/06-personal-philosophy-constitution.md)
 
-七个阶段的学习路线、产出和评估结构已经形成。第一轮十七份原典学习页、八个方法模块与十个核心问题课程现已全部补齐连续教学、操作协议、参考分析、闭卷检查和来源审计。下一批是七条思想史主干的教材化；交付状态以[中文学习入口](../learning/README.md)为准，不再用路线完整代替内容完整。
+七个阶段的学习路线、产出和评估结构已经形成。第一轮十七份原典学习页、八个方法模块、十个核心问题课程与七条思想史主干现已全部补齐连续教学、论证或历史解释、参考分析、闭卷检查和来源审计。交付状态以[中文学习入口](../learning/README.md)为准，不用路线完整、文件数量或外部书目代替内容完整。
 
 ## 统一学习循环
 
@@ -83,13 +83,13 @@
 
 | 编号 | 主干 | 状态 |
 |---:|---|---|
-| 1 | [古希腊与希腊化世界](03-historical-traditions/01-ancient-greek-and-hellenistic.md) | 路线已完成 |
-| 2 | [中国与东亚哲学](03-historical-traditions/02-chinese-and-east-asian.md) | 路线已完成 |
-| 3 | [印度与佛教哲学](03-historical-traditions/03-indian-and-buddhist.md) | 路线已完成 |
-| 4 | [基督教、伊斯兰与犹太哲学](03-historical-traditions/04-christian-islamic-and-jewish.md) | 路线已完成 |
-| 5 | [欧洲近代与启蒙](03-historical-traditions/05-early-modern-and-enlightenment.md) | 路线已完成 |
-| 6 | [十九至二十世纪的分岔](03-historical-traditions/06-nineteenth-and-twentieth-century.md) | 路线已完成 |
-| 7 | [当代与全球哲学](03-historical-traditions/07-contemporary-and-global.md) | 路线已完成 |
+| 1 | [古希腊与希腊化世界](03-historical-traditions/01-ancient-greek-and-hellenistic.md) | 可直接学习 |
+| 2 | [中国与东亚哲学](03-historical-traditions/02-chinese-and-east-asian.md) | 可直接学习 |
+| 3 | [印度与佛教哲学](03-historical-traditions/03-indian-and-buddhist.md) | 可直接学习 |
+| 4 | [基督教、伊斯兰与犹太哲学](03-historical-traditions/04-christian-islamic-and-jewish.md) | 可直接学习 |
+| 5 | [欧洲近代与启蒙](03-historical-traditions/05-early-modern-and-enlightenment.md) | 可直接学习 |
+| 6 | [十九至二十世纪的分岔](03-historical-traditions/06-nineteenth-and-twentieth-century.md) | 可直接学习 |
+| 7 | [当代与全球哲学](03-historical-traditions/07-contemporary-and-global.md) | 可直接学习 |
 
 ### 研究与个人综合
 
