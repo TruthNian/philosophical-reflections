@@ -26,11 +26,11 @@
 | 古希腊 | [亚里士多德《尼各马可伦理学》](ancient-greek/aristotle-nicomachean-ethics.md) | 已完成 |
 | 中国与东亚 | [《论语》](chinese-east-asian/analects.md) | 已完成 |
 | 中国与东亚 | [《庄子·内篇》](chinese-east-asian/zhuangzi-inner-chapters.md) | 已完成 |
-| 印度与佛教 | 《奥义书》选篇 | 待发布 |
-| 印度与佛教 | 早期佛教《无我相经》 | 待发布 |
-| 印度与佛教 | 龙树《中论》第一、二、二十四品 | 待发布 |
-| 一神教论辩网络 | 奥古斯丁《忏悔录》第七、八、十一卷 | 待发布 |
-| 一神教论辩网络 | 阿维森纳《治疗论·形而上学》选段 | 待发布 |
+| 印度与佛教 | [《奥义书》选篇](indian-buddhist/upanishads-selection.md) | 已完成 |
+| 印度与佛教 | [早期佛教《无我相经》](indian-buddhist/early-buddhist-not-self.md) | 已完成 |
+| 印度与佛教 | [龙树《中论》第一、二、二十四品](indian-buddhist/nagarjuna-mmk-selection.md) | 已完成 |
+| 一神教论辩网络 | [奥古斯丁《忏悔录》第七、八、十一卷](medieval-abrahamic/augustine-confessions-selection.md) | 已完成 |
+| 一神教论辩网络 | [阿维森纳《治疗论·形而上学》选段](medieval-abrahamic/avicenna-metaphysics-selection.md) | 已完成 |
 | 欧洲近代 | [笛卡尔《第一哲学沉思集》](early-modern/descartes-meditations.md) | 已完成 |
 | 欧洲近代 | [休谟《人类理解研究》](early-modern/hume-enquiry.md) | 已完成 |
 | 十九至二十世纪 | 马克思作品锚点组 | 待发布 |
@@ -56,5 +56,16 @@
 
 - [《第一哲学沉思集》：确定性从怀疑内部怎样建立](early-modern/descartes-meditations.md)
 - [《人类理解研究》：理性凭什么越过已经经验的世界](early-modern/hume-enquiry.md)
+
+### 印度与佛教主干
+
+- [《奥义书》选篇：自我、终极实在与解脱知识](indian-buddhist/upanishads-selection.md)
+- [《无我相经》：五蕴为何不适合被认作“我”](indian-buddhist/early-buddhist-not-self.md)
+- [《中论》选品：空怎样保全而非取消缘起](indian-buddhist/nagarjuna-mmk-selection.md)
+
+### 基督教、伊斯兰与犹太哲学主干
+
+- [《忏悔录》选卷：恶、意志与时间中的自我](medieval-abrahamic/augustine-confessions-selection.md)
+- [《治疗论·形而上学》选段：可能者为何需要存在根据](medieval-abrahamic/avicenna-metaphysics-selection.md)
 
 其余锚点只有在十一项结构和证据要求全部满足后才进入本索引。
