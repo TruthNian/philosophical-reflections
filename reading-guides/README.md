@@ -23,18 +23,18 @@
 
 | 传统 | 锚点 | 状态 |
 |---|---|---|
-| 古希腊 | [柏拉图《苏格拉底的申辩》](ancient-greek/plato-apology.md) | 正文已成，待补检验 |
-| 古希腊 | [柏拉图《游叙弗伦》](ancient-greek/plato-euthyphro.md) | 正文已成，待补检验 |
+| 古希腊 | [柏拉图《苏格拉底的申辩》](ancient-greek/plato-apology.md) | 可直接学习 |
+| 古希腊 | [柏拉图《游叙弗伦》](ancient-greek/plato-euthyphro.md) | 可直接学习 |
 | 古希腊 | [亚里士多德《尼各马可伦理学》](ancient-greek/aristotle-nicomachean-ethics.md) | 正文已成，待补检验 |
-| 中国与东亚 | [《论语》](chinese-east-asian/analects.md) | 正文已成，待补检验 |
-| 中国与东亚 | [《庄子·内篇》](chinese-east-asian/zhuangzi-inner-chapters.md) | 正文已成，待补检验 |
+| 中国与东亚 | [《论语》](chinese-east-asian/analects.md) | 可直接学习 |
+| 中国与东亚 | [《庄子·内篇》](chinese-east-asian/zhuangzi-inner-chapters.md) | 可直接学习 |
 | 印度与佛教 | [《奥义书》选篇](indian-buddhist/upanishads-selection.md) | 正文已成，待补检验 |
 | 印度与佛教 | [早期佛教《无我相经》](indian-buddhist/early-buddhist-not-self.md) | 正文已成，待补检验 |
 | 印度与佛教 | [龙树《中论》第一、二、二十四品](indian-buddhist/nagarjuna-mmk-selection.md) | 正文已成，待补检验 |
 | 一神教论辩网络 | [奥古斯丁《忏悔录》第七、八、十一卷](medieval-abrahamic/augustine-confessions-selection.md) | 正文已成，待补检验 |
 | 一神教论辩网络 | [阿维森纳《治疗论·形而上学》选段](medieval-abrahamic/avicenna-metaphysics-selection.md) | 可直接学习 |
-| 欧洲近代 | [笛卡尔《第一哲学沉思集》](early-modern/descartes-meditations.md) | 正文已成，待补检验 |
-| 欧洲近代 | [休谟《人类理解研究》](early-modern/hume-enquiry.md) | 正文已成，待补检验 |
+| 欧洲近代 | [笛卡尔《第一哲学沉思集》](early-modern/descartes-meditations.md) | 可直接学习 |
+| 欧洲近代 | [休谟《人类理解研究》](early-modern/hume-enquiry.md) | 可直接学习 |
 | 十九至二十世纪 | [马克思作品锚点组](nineteenth-twentieth/marx-selected-works.md) | 正文已成，待补检验 |
 | 十九至二十世纪 | [维特根斯坦《哲学研究》](nineteenth-twentieth/wittgenstein-philosophical-investigations.md) | 可直接学习 |
 | 十九至二十世纪 | [波伏瓦《模糊性的伦理学》](nineteenth-twentieth/beauvoir-ethics-of-ambiguity.md) | 可直接学习 |
@@ -81,4 +81,4 @@
 - [《正义论》选段：怎样为社会基本结构选择公平原则](contemporary-global/rawls-theory-of-justice.md)
 - [《黑皮肤，白面具》：殖民秩序怎样进入语言、身体与欲望](contemporary-global/fanon-black-skin-white-masks.md)
 
-第一轮十七个锚点均已有正文。其中阿维森纳、维特根斯坦、波伏瓦、罗尔斯与法农五页已经补齐连续教学、参考分析、评分点、闭卷检查和回源审计，升级为“可直接学习”；其余十二页仍是“正文已成，待补检验”，不能以文件存在冒充课程完成。后续将按十二周起步顺序逐页升级，并依据课程问题、解释争议和实际学习记录增加新锚点，而不是凑“文明代表”。
+第一轮十七个锚点均已有正文。其中原有的阿维森纳、维特根斯坦、波伏瓦、罗尔斯、法农五页，以及本轮完成的柏拉图两篇、《论语》《庄子》、笛卡尔与休谟六页，已经补齐连续教学、参考分析、评分点、闭卷检查和回源审计，共十一页达到“可直接学习”。其余六页仍是“正文已成，待补检验”，不能以文件存在冒充课程完成。后续继续升级亚里士多德、《奥义书》、《无我相经》、龙树、奥古斯丁与马克思，并依据课程问题、解释争议和实际学习记录增加新锚点，而不是凑“文明代表”。
