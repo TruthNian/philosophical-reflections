@@ -4,7 +4,7 @@ title: "哲学随想"
 type: book
 authors:
   - family-names: "TruthNian"
-version: 3.2.0
+version: 3.3.0
 date-released: 2026-08-24
 license: CC-BY-4.0
 repository-code: "https://github.com/TruthNian/philosophical-reflections"

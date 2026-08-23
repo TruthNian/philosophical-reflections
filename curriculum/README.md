@@ -20,11 +20,11 @@
 2. [十二周起步课程](00-orientation/twelve-week-launch.md)
 3. [阶段 1：哲学方法](01-methods/README.md)
 4. [十个核心问题域](02-core-problems/README.md)
-5. 七条思想史主干
+5. [七条思想史主干](03-historical-traditions/README.md)
 6. 专题研究
 7. 个人哲学综合
 
-第 5—7 项会随对应版本逐步进入本目录。未发布的模块不会用空白页面或简略提纲冒充成品。
+第 6—7 项会随对应版本逐步进入本目录。未发布的模块不会用空白页面或简略提纲冒充成品。
 
 ## 统一学习循环
 
@@ -72,13 +72,13 @@
 
 | 编号 | 主干 | 状态 |
 |---:|---|---|
-| 1 | 古希腊与希腊化世界 | 待发布 |
-| 2 | 中国与东亚哲学 | 待发布 |
-| 3 | 印度与佛教哲学 | 待发布 |
-| 4 | 基督教、伊斯兰与犹太哲学 | 待发布 |
-| 5 | 欧洲近代与启蒙 | 待发布 |
-| 6 | 十九至二十世纪的分岔 | 待发布 |
-| 7 | 当代与全球哲学 | 待发布 |
+| 1 | [古希腊与希腊化世界](03-historical-traditions/01-ancient-greek-and-hellenistic.md) | 已完成 |
+| 2 | [中国与东亚哲学](03-historical-traditions/02-chinese-and-east-asian.md) | 已完成 |
+| 3 | [印度与佛教哲学](03-historical-traditions/03-indian-and-buddhist.md) | 已完成 |
+| 4 | [基督教、伊斯兰与犹太哲学](03-historical-traditions/04-christian-islamic-and-jewish.md) | 已完成 |
+| 5 | [欧洲近代与启蒙](03-historical-traditions/05-early-modern-and-enlightenment.md) | 已完成 |
+| 6 | [十九至二十世纪的分岔](03-historical-traditions/06-nineteenth-and-twentieth-century.md) | 已完成 |
+| 7 | [当代与全球哲学](03-historical-traditions/07-contemporary-and-global.md) | 已完成 |
 
 ### 研究与个人综合
 
