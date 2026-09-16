@@ -33,6 +33,11 @@
 
 ## 文章
 
+### 主体与世界
+
+- [《主体世界论》：个体与共享世界的关系结构（第一稿）](articles/Philosophy/subject-world.md) · [PDF 阅读版](articles/Philosophy/subject-world.pdf)
+  从主体世界的关系性出发，讨论显现与实际参与、身体与情感、他人与共同生活、时间与世界重构；文末附文献注释与十二组尚待讨论的问题。
+
 ### 哲学之路
 
 - [《如何走上哲学之路》：从第一性原理到独立判断](articles/Philosophy/the-path-of-philosophy.md)
